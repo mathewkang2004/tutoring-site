@@ -1,0 +1,373 @@
+[
+  {
+    "objectID": "geometry/parallel-lines-triangles.html",
+    "href": "geometry/parallel-lines-triangles.html",
+    "title": "Unit 2: Parallel Lines & Triangles",
+    "section": "",
+    "text": "When a transversal crosses two parallel lines, it creates 8 angles with predictable relationships:\n\nCorresponding angles (same position at each intersection): congruent\nAlternate interior angles (between the two lines, opposite sides of the transversal): congruent\nAlternate exterior angles (outside the two lines, opposite sides): congruent\nCo-interior / same-side interior angles (between the lines, same side): supplementary\n\n\n\n\n\n\n\nTipThe shortcut\n\n\n\nIf the lines are parallel: angles in matching positions are congruent, “alternate” pairs are congruent, and any pair that’s between the lines and on the same side adds to 180°.\n\n\n\n\n\n\nTriangle Angle Sum Theorem: the three interior angles of any triangle always add to 180°.\nExterior Angle Theorem: an exterior angle of a triangle equals the sum of the two remote (non-adjacent) interior angles.\nIsosceles Triangle Theorem: if two sides of a triangle are congruent, the angles opposite those sides are congruent (and vice versa)."
+  },
+  {
+    "objectID": "geometry/parallel-lines-triangles.html#key-concepts",
+    "href": "geometry/parallel-lines-triangles.html#key-concepts",
+    "title": "Unit 2: Parallel Lines & Triangles",
+    "section": "",
+    "text": "When a transversal crosses two parallel lines, it creates 8 angles with predictable relationships:\n\nCorresponding angles (same position at each intersection): congruent\nAlternate interior angles (between the two lines, opposite sides of the transversal): congruent\nAlternate exterior angles (outside the two lines, opposite sides): congruent\nCo-interior / same-side interior angles (between the lines, same side): supplementary\n\n\n\n\n\n\n\nTipThe shortcut\n\n\n\nIf the lines are parallel: angles in matching positions are congruent, “alternate” pairs are congruent, and any pair that’s between the lines and on the same side adds to 180°.\n\n\n\n\n\n\nTriangle Angle Sum Theorem: the three interior angles of any triangle always add to 180°.\nExterior Angle Theorem: an exterior angle of a triangle equals the sum of the two remote (non-adjacent) interior angles.\nIsosceles Triangle Theorem: if two sides of a triangle are congruent, the angles opposite those sides are congruent (and vice versa)."
+  },
+  {
+    "objectID": "geometry/parallel-lines-triangles.html#practice-problems",
+    "href": "geometry/parallel-lines-triangles.html#practice-problems",
+    "title": "Unit 2: Parallel Lines & Triangles",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nTwo parallel lines are cut by a transversal. One angle measures 65°. Find the measure of its co-interior (same-side interior) angle.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nCo-interior angles are supplementary: 180° − 65° = 115°\n\n\n\n\nA triangle has angles measuring 40° and 75°. Find the third angle, then find the exterior angle adjacent to it.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nThird interior angle: 180° − 40° − 75° = 65° The exterior angle adjacent to it is supplementary to it: 180° − 65° = 115°\n(Check with the Exterior Angle Theorem: 40° + 75° = 115°. ✓ It matches, since the exterior angle equals the sum of the two remote interior angles.)\n\n\n\n\nAn isosceles triangle has a vertex angle of 40°. Find the two base angles.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nThe two base angles are congruent to each other, and all three angles sum to 180°: 180° − 40° = 140°, split evenly: 140° ÷ 2 = 70° each"
+  },
+  {
+    "objectID": "geometry/parallel-lines-triangles.html#quick-check",
+    "href": "geometry/parallel-lines-triangles.html#quick-check",
+    "title": "Unit 2: Parallel Lines & Triangles",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. When two parallel lines are cut by a transversal, alternate interior angles are:\n Supplementary\n Congruent\n Complementary\n Always 90°\nCheck Answer\n\n\n\n\n2. The interior angles of any triangle always sum to:\n 90°\n 270°\n 180°\n 360°\nCheck Answer\n\n\n\n\n3. In an isosceles triangle, the angles opposite the two congruent sides are:\n Supplementary\n Always right angles\n Congruent\n Complementary\nCheck Answer"
+  },
+  {
+    "objectID": "geometry/index.html",
+    "href": "geometry/index.html",
+    "title": "Geometry",
+    "section": "",
+    "text": "Advanced geometry builds on algebra by introducing formal logical reasoning — you’re not just solving for x anymore, you’re proving why something must be true. These units move from vocabulary and postulates to triangle relationships and proof-writing.\n\nUnits\n\nFoundations & Proof Basics — points/lines/planes, angle pairs, intro to two-column proofs\nParallel Lines & Triangles — parallel line angle relationships, triangle angle theorems\nCongruence & Similarity — congruence shortcuts (SSS, SAS…), similarity, right triangle basics\n\n\n\n\n\n\n\nNote\n\n\n\nLater units (quadrilaterals, circles, area/volume, trigonometry) can follow this same page structure.\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "language-arts/rhetoric-argument.html",
+    "href": "language-arts/rhetoric-argument.html",
+    "title": "Unit 2: Rhetoric & Argumentative Writing",
+    "section": "",
+    "text": "Ethos: appeals to credibility/character (“As a doctor with 20 years of experience…”)\nPathos: appeals to emotion (vivid stories, emotionally charged language)\nLogos: appeals to logic (statistics, reasoning, cause-and-effect)\n\nStrong arguments usually blend all three rather than relying on just one.\n\n\n\nBefore analyzing or writing an argument, identify:\n\nAuthor — who is speaking, and what’s their credibility/bias?\nAudience — who is this trying to persuade, and what do they already believe?\nPurpose — what does the author want the audience to think or do?\nContext — what’s happening around this text that shapes it?\n\n\n\n\n\nThesis: a clear, arguable claim (not a fact, not a question) — should be specific enough that someone could reasonably disagree.\nBody paragraphs: each should have one main point (topic sentence), evidence, and analysis that ties back to the thesis.\nCounterargument: acknowledge the strongest opposing view, then rebut it — this makes your argument look stronger, not weaker.\nConclusion: don’t just restate the thesis — address the “so what?” (why does this argument matter?).\n\n\n\n\n\n\n\nTipTesting a thesis\n\n\n\nAsk: “could a reasonable person disagree with this?” If not, it’s a fact, not an arguable thesis. “Recycling reduces landfill waste” is a fact. “Mandatory recycling programs are more effective than voluntary ones” is arguable."
+  },
+  {
+    "objectID": "language-arts/rhetoric-argument.html#key-concepts",
+    "href": "language-arts/rhetoric-argument.html#key-concepts",
+    "title": "Unit 2: Rhetoric & Argumentative Writing",
+    "section": "",
+    "text": "Ethos: appeals to credibility/character (“As a doctor with 20 years of experience…”)\nPathos: appeals to emotion (vivid stories, emotionally charged language)\nLogos: appeals to logic (statistics, reasoning, cause-and-effect)\n\nStrong arguments usually blend all three rather than relying on just one.\n\n\n\nBefore analyzing or writing an argument, identify:\n\nAuthor — who is speaking, and what’s their credibility/bias?\nAudience — who is this trying to persuade, and what do they already believe?\nPurpose — what does the author want the audience to think or do?\nContext — what’s happening around this text that shapes it?\n\n\n\n\n\nThesis: a clear, arguable claim (not a fact, not a question) — should be specific enough that someone could reasonably disagree.\nBody paragraphs: each should have one main point (topic sentence), evidence, and analysis that ties back to the thesis.\nCounterargument: acknowledge the strongest opposing view, then rebut it — this makes your argument look stronger, not weaker.\nConclusion: don’t just restate the thesis — address the “so what?” (why does this argument matter?).\n\n\n\n\n\n\n\nTipTesting a thesis\n\n\n\nAsk: “could a reasonable person disagree with this?” If not, it’s a fact, not an arguable thesis. “Recycling reduces landfill waste” is a fact. “Mandatory recycling programs are more effective than voluntary ones” is arguable."
+  },
+  {
+    "objectID": "language-arts/rhetoric-argument.html#practice-problems",
+    "href": "language-arts/rhetoric-argument.html#practice-problems",
+    "title": "Unit 2: Rhetoric & Argumentative Writing",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nIdentify the appeal: “Over 10,000 peer-reviewed studies confirm this treatment’s effectiveness.”\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nLogos — it uses statistics/data as logical evidence.\n\n\n\n\nRewrite this weak thesis into an arguable one: “Social media has both good and bad effects on teenagers.”\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nSample fix: “While social media offers useful ways for teenagers to connect, its design features (infinite scroll, algorithmic feeds) create outsized harm to teen mental health that outweighs its benefits.” (Key fix: pick a side and make a specific, debatable claim instead of listing both sides neutrally.)\n\n\n\n\nWhy should you include a counterargument in your own essay instead of only presenting your own side?\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nAddressing the strongest opposing view — and then rebutting it — shows you’ve considered the issue fully, which makes your own argument more credible and harder to dismiss. Ignoring counterarguments can make your essay look one-sided or unaware of obvious objections."
+  },
+  {
+    "objectID": "language-arts/rhetoric-argument.html#quick-check",
+    "href": "language-arts/rhetoric-argument.html#quick-check",
+    "title": "Unit 2: Rhetoric & Argumentative Writing",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. An appeal based on the speaker's credibility is:\n Ethos\n Pathos\n Logos\n Syntax\nCheck Answer\n\n\n\n\n2. A good thesis statement should be:\n A simple fact\n A question\n Specific and arguable\n As broad as possible\nCheck Answer\n\n\n\n\n3. Addressing the strongest opposing view in your essay is called the:\n Thesis\n Topic sentence\n Counterargument\n Ethos\nCheck Answer"
+  },
+  {
+    "objectID": "language-arts/index.html",
+    "href": "language-arts/index.html",
+    "title": "Language Arts",
+    "section": "",
+    "text": "High school language arts asks you to do three things at a higher level than before: read texts closely and explain how they create meaning, build persuasive arguments, and write with precise, correct mechanics.\n\nUnits\n\nClose Reading & Literary Analysis — theme, tone, and analyzing how literary devices create meaning\nRhetoric & Argumentative Writing — ethos/pathos/logos, building a thesis-driven argument\nGrammar & Mechanics — clauses, common errors, and punctuation rules that trip people up\n\n\n\n\n\n\n\nNote\n\n\n\nLater units (research writing, vocabulary/etymology, specific texts) can follow this same page structure.\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ap-human-geo/culture.html",
+    "href": "ap-human-geo/culture.html",
+    "title": "Unit 3: Culture",
+    "section": "",
+    "text": "Culture is a group’s shared beliefs, practices, technology, and values, passed down and modified over time. The cultural landscape is the visible imprint of culture on the land (buildings, farms, road layouts, signage).\n\nCultural traits: individual elements of culture (a specific food, style of dress, custom)\nCultural complex: a related set of traits (traits around a specific religion, for example)\nCultural region: an area sharing common cultural traits/complexes\n\n\n\n\n\nRelocation diffusion: culture spreads because people physically move (immigrants bringing food traditions).\nExpansion diffusion: culture spreads outward from its origin while staying strong there, split into:\n\nContagious diffusion: spreads quickly through direct contact, most people affected (a viral trend)\nHierarchical diffusion: spreads through a ranked order — big cities first, then smaller towns (new fashion trends, tech adoption)\nStimulus diffusion: the underlying idea spreads even though the specific practice changes (fast food concept adapted with local menus abroad)\n\n\n\n\n\n\nLanguage families (e.g., Indo-European) share a common ancestral root; a lingua franca is a common language used for trade/communication between groups who don’t share a native language (English, historically).\nUniversalizing religions (Christianity, Islam, Buddhism) actively seek converts and can spread anywhere.\nEthnic religions (Hinduism, Judaism) are closely tied to a specific ethnic group or place and spread mainly by relocation diffusion, not conversion.\n\n\n\n\n\n\n\nTipTelling diffusion types apart\n\n\n\nAsk: did it spread because people moved (relocation) or because it spread outward while staying put at the source (expansion)? If expansion, ask if it moved through everyone nearby (contagious), big places to small (hierarchical), or if only the idea survived the trip while the details changed (stimulus)."
+  },
+  {
+    "objectID": "ap-human-geo/culture.html#key-concepts",
+    "href": "ap-human-geo/culture.html#key-concepts",
+    "title": "Unit 3: Culture",
+    "section": "",
+    "text": "Culture is a group’s shared beliefs, practices, technology, and values, passed down and modified over time. The cultural landscape is the visible imprint of culture on the land (buildings, farms, road layouts, signage).\n\nCultural traits: individual elements of culture (a specific food, style of dress, custom)\nCultural complex: a related set of traits (traits around a specific religion, for example)\nCultural region: an area sharing common cultural traits/complexes\n\n\n\n\n\nRelocation diffusion: culture spreads because people physically move (immigrants bringing food traditions).\nExpansion diffusion: culture spreads outward from its origin while staying strong there, split into:\n\nContagious diffusion: spreads quickly through direct contact, most people affected (a viral trend)\nHierarchical diffusion: spreads through a ranked order — big cities first, then smaller towns (new fashion trends, tech adoption)\nStimulus diffusion: the underlying idea spreads even though the specific practice changes (fast food concept adapted with local menus abroad)\n\n\n\n\n\n\nLanguage families (e.g., Indo-European) share a common ancestral root; a lingua franca is a common language used for trade/communication between groups who don’t share a native language (English, historically).\nUniversalizing religions (Christianity, Islam, Buddhism) actively seek converts and can spread anywhere.\nEthnic religions (Hinduism, Judaism) are closely tied to a specific ethnic group or place and spread mainly by relocation diffusion, not conversion.\n\n\n\n\n\n\n\nTipTelling diffusion types apart\n\n\n\nAsk: did it spread because people moved (relocation) or because it spread outward while staying put at the source (expansion)? If expansion, ask if it moved through everyone nearby (contagious), big places to small (hierarchical), or if only the idea survived the trip while the details changed (stimulus)."
+  },
+  {
+    "objectID": "ap-human-geo/culture.html#practice-problems",
+    "href": "ap-human-geo/culture.html#practice-problems",
+    "title": "Unit 3: Culture",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nA new slang term appears first in a major city and later shows up in smaller towns nearby, following the ranking of city size. What type of diffusion is this?\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nHierarchical diffusion — it spread from larger places down to smaller ones in order of size/importance.\n\n\n\n\nClassify: Buddhism spreading from Asia to the West as immigrants moved and brought their practice with them.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nRelocation diffusion — the religion spread because its practitioners physically relocated.\n\n\n\n\nA burger chain from the US opens overseas but swaps the menu for local flavors and ingredients. What type of diffusion best describes this, and why?\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nStimulus diffusion — the general concept (fast, casual chain food) spread, but the specific product was modified to fit the new cultural context."
+  },
+  {
+    "objectID": "ap-human-geo/culture.html#quick-check",
+    "href": "ap-human-geo/culture.html#quick-check",
+    "title": "Unit 3: Culture",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. A religion tied closely to one ethnic group that spreads mainly through relocation is:\n An ethnic religion\n A universalizing religion\n A lingua franca\n A cultural complex\nCheck Answer\n\n\n\n\n2. Trends spreading from big cities to smaller towns in ranked order is:\n Contagious diffusion\n Relocation diffusion\n Hierarchical diffusion\n Stimulus diffusion\nCheck Answer\n\n\n\n\n3. The visible imprint of culture on the land is called the:\n Cultural trait\n Cultural hearth\n Cultural landscape\n Cultural complex\nCheck Answer"
+  },
+  {
+    "objectID": "ap-human-geo/population-migration.html",
+    "href": "ap-human-geo/population-migration.html",
+    "title": "Unit 2: Population & Migration",
+    "section": "",
+    "text": "Arithmetic density: total population ÷ total land area — simple but can be misleading.\nPhysiologic density: population ÷ arable (farmable) land — better reflects pressure on food-producing land.\nAgricultural density: number of farmers ÷ arable land — reflects efficiency of farming.\n\n\n\n\nA model of how birth rates and death rates change as a country develops, in 5 stages:\n\nStage 1 (pre-industrial): high birth rate, high death rate → slow growth\nStage 2 (early industrial): death rate drops fast (better medicine/food), birth rate stays high → rapid growth\nStage 3 (industrializing): birth rate starts falling (urbanization, education, women in workforce) → growth slows\nStage 4 (developed): low birth rate, low death rate → slow/stable growth\nStage 5 (some developed nations): birth rate falls below death rate → population decline\n\nRelated: the Epidemiologic Transition Model tracks causes of death shifting from infectious disease (Stage 1-2) to chronic/degenerative disease (Stage 4-5).\n\n\n\n\nPush factors: reasons people leave a place (war, famine, lack of jobs)\nPull factors: reasons people are drawn to a place (jobs, safety, family)\nTypes: forced vs. voluntary; internal (within a country) vs. international\nRavenstein’s Laws of Migration (key ideas): most migrants move only a short distance; long-distance migrants tend to move toward large cities; migration increases as industrialization/transportation improves.\n\n\n\n\n\n\n\nTipCommon mix-up\n\n\n\nPhysiologic density and arithmetic density use the same numerator (population) but different denominators. A country can look “empty” by arithmetic density (lots of desert/land) yet be very crowded by physiologic density (little arable land) — Egypt is the classic example."
+  },
+  {
+    "objectID": "ap-human-geo/population-migration.html#key-concepts",
+    "href": "ap-human-geo/population-migration.html#key-concepts",
+    "title": "Unit 2: Population & Migration",
+    "section": "",
+    "text": "Arithmetic density: total population ÷ total land area — simple but can be misleading.\nPhysiologic density: population ÷ arable (farmable) land — better reflects pressure on food-producing land.\nAgricultural density: number of farmers ÷ arable land — reflects efficiency of farming.\n\n\n\n\nA model of how birth rates and death rates change as a country develops, in 5 stages:\n\nStage 1 (pre-industrial): high birth rate, high death rate → slow growth\nStage 2 (early industrial): death rate drops fast (better medicine/food), birth rate stays high → rapid growth\nStage 3 (industrializing): birth rate starts falling (urbanization, education, women in workforce) → growth slows\nStage 4 (developed): low birth rate, low death rate → slow/stable growth\nStage 5 (some developed nations): birth rate falls below death rate → population decline\n\nRelated: the Epidemiologic Transition Model tracks causes of death shifting from infectious disease (Stage 1-2) to chronic/degenerative disease (Stage 4-5).\n\n\n\n\nPush factors: reasons people leave a place (war, famine, lack of jobs)\nPull factors: reasons people are drawn to a place (jobs, safety, family)\nTypes: forced vs. voluntary; internal (within a country) vs. international\nRavenstein’s Laws of Migration (key ideas): most migrants move only a short distance; long-distance migrants tend to move toward large cities; migration increases as industrialization/transportation improves.\n\n\n\n\n\n\n\nTipCommon mix-up\n\n\n\nPhysiologic density and arithmetic density use the same numerator (population) but different denominators. A country can look “empty” by arithmetic density (lots of desert/land) yet be very crowded by physiologic density (little arable land) — Egypt is the classic example."
+  },
+  {
+    "objectID": "ap-human-geo/population-migration.html#practice-problems",
+    "href": "ap-human-geo/population-migration.html#practice-problems",
+    "title": "Unit 2: Population & Migration",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nA country has 40 million people, 1 million km² of total land, and 200,000 km² of arable land. Find its arithmetic and physiologic densities.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nArithmetic density = 40,000,000 ÷ 1,000,000 = 40 people/km² Physiologic density = 40,000,000 ÷ 200,000 = 200 people/km²\nThe physiologic density is much higher, showing real pressure on the usable farmland even though the arithmetic density looks moderate.\n\n\n\n\nA country has a high birth rate and a rapidly falling death rate, driven by new medical technology, but women are not yet entering the workforce in large numbers. What DTM stage is this, and what happens to population?\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nStage 2. With births staying high but deaths falling, the natural increase rate spikes — this is the period of the fastest population growth.\n\n\n\n\nGive one push factor and one pull factor for a family relocating from a rural area to a big city for work.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nPush factor: lack of jobs/limited economic opportunity in the rural area. Pull factor: availability of jobs and higher wages in the city. (Any reasonable equivalent, e.g. push = poor schools, pull = better schools, is also correct.)"
+  },
+  {
+    "objectID": "ap-human-geo/population-migration.html#quick-check",
+    "href": "ap-human-geo/population-migration.html#quick-check",
+    "title": "Unit 2: Population & Migration",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. Which DTM stage has the fastest population growth?\n Stage 1\n Stage 2\n Stage 4\n Stage 5\nCheck Answer\n\n\n\n\n2. Physiologic density divides population by:\n Total land area\n Arable land area\n Number of farmers\n Urban land area\nCheck Answer\n\n\n\n\n3. War forcing people to flee their country is an example of:\n A pull factor\n A push factor\n Internal migration\n Stage 5 of the DTM\nCheck Answer"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Hi! This site is our home base for getting ready for high school. Each subject has its own section in the menu above, broken into units. Every unit page has three parts:\n\nNotes — the core ideas explained simply, with examples.\nPractice Problems — try them yourself, then click to reveal the worked solution.\nQuick Check — a short interactive quiz to test what stuck.\n\n\nSubjects\n\nChemistry — matter, atoms, the periodic table, and bonding\nAP Human Geography — how people, culture, and politics shape the world\nGeometry — proofs, triangles, and similarity\nLanguage Arts — close reading, rhetoric, and grammar\n\n\n\n\n\n\n\nTipHow to use this site\n\n\n\nRead the notes first, then always attempt the practice problems before peeking at the solution — that’s how the ideas actually stick. Use the quiz at the end of each page as a gut-check, not a first attempt.\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "chemistry/index.html",
+    "href": "chemistry/index.html",
+    "title": "Chemistry",
+    "section": "",
+    "text": "Chemistry is the study of matter — what it’s made of and how it changes. These units build up from the basics (matter and measurement) to the atomic-level ideas (atomic structure, bonding) you’ll need for everything else in the course.\n\nUnits\n\nMatter & Measurement — classifying matter, SI units, significant figures, density\nAtomic Structure & the Periodic Table — protons/neutrons/electrons, isotopes, periodic trends\nChemical Bonding — ionic vs. covalent bonds, Lewis structures, naming compounds\n\n\n\n\n\n\n\nNote\n\n\n\nMore units (stoichiometry, reactions, gases, acids & bases) can be added the same way as you move further into the course — just copy the pattern of an existing unit page.\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "chemistry/matter-and-measurement.html",
+    "href": "chemistry/matter-and-measurement.html",
+    "title": "Unit 1: Matter & Measurement",
+    "section": "",
+    "text": "Matter is anything that has mass and takes up space. We classify it like this:\n\nPure substances — fixed composition\n\nElements: can’t be broken down further (e.g., oxygen, gold)\nCompounds: two or more elements chemically combined in a fixed ratio (e.g., H₂O)\n\nMixtures — variable composition, physically combined\n\nHomogeneous (uniform throughout, e.g., saltwater)\nHeterogeneous (visibly different parts, e.g., salad)\n\n\nPhysical vs. chemical changes: a physical change alters appearance but not identity (melting ice); a chemical change produces a new substance (rusting iron).\n\n\n\nChemists use SI units: mass (kg or g), volume (L or mL), temperature (K), length (m).\nDensity = mass ÷ volume, usually in g/mL or g/cm³. It’s a way to identify a substance regardless of sample size.\nSignificant figures communicate precision:\n\nAll non-zero digits count.\nZeros between other digits count (102 has 3 sig figs).\nLeading zeros never count (0.0025 has 2 sig figs).\nTrailing zeros count only if there’s a decimal point (100. has 3 sig figs; 100 has 1).\n\n\n\n\n\n\n\n\nTipQuick trick\n\n\n\nWhen multiplying/dividing, your answer can only have as many sig figs as your least precise measurement. When adding/subtracting, match the fewest decimal places."
+  },
+  {
+    "objectID": "chemistry/matter-and-measurement.html#key-concepts",
+    "href": "chemistry/matter-and-measurement.html#key-concepts",
+    "title": "Unit 1: Matter & Measurement",
+    "section": "",
+    "text": "Matter is anything that has mass and takes up space. We classify it like this:\n\nPure substances — fixed composition\n\nElements: can’t be broken down further (e.g., oxygen, gold)\nCompounds: two or more elements chemically combined in a fixed ratio (e.g., H₂O)\n\nMixtures — variable composition, physically combined\n\nHomogeneous (uniform throughout, e.g., saltwater)\nHeterogeneous (visibly different parts, e.g., salad)\n\n\nPhysical vs. chemical changes: a physical change alters appearance but not identity (melting ice); a chemical change produces a new substance (rusting iron).\n\n\n\nChemists use SI units: mass (kg or g), volume (L or mL), temperature (K), length (m).\nDensity = mass ÷ volume, usually in g/mL or g/cm³. It’s a way to identify a substance regardless of sample size.\nSignificant figures communicate precision:\n\nAll non-zero digits count.\nZeros between other digits count (102 has 3 sig figs).\nLeading zeros never count (0.0025 has 2 sig figs).\nTrailing zeros count only if there’s a decimal point (100. has 3 sig figs; 100 has 1).\n\n\n\n\n\n\n\n\nTipQuick trick\n\n\n\nWhen multiplying/dividing, your answer can only have as many sig figs as your least precise measurement. When adding/subtracting, match the fewest decimal places."
+  },
+  {
+    "objectID": "chemistry/matter-and-measurement.html#practice-problems",
+    "href": "chemistry/matter-and-measurement.html#practice-problems",
+    "title": "Unit 1: Matter & Measurement",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nClassify each as an element, compound, homogeneous mixture, or heterogeneous mixture: (a) air, (b) table salt (NaCl), (c) trail mix, (d) copper wire.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\n\nAir — homogeneous mixture (mostly N₂ and O₂ blended uniformly)\nNaCl — compound (fixed ratio of Na and Cl)\nTrail mix — heterogeneous mixture (you can see distinct pieces)\nCopper wire — element\n\n\n\n\n\nA piece of metal has a mass of 47.5 g and a volume of 6.2 cm³. What is its density, with the correct number of sig figs?\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nDensity = 47.5 g ÷ 6.2 cm³ = 7.66… g/cm³\nThe least precise measurement (6.2) has 2 sig figs, so round to 7.7 g/cm³.\n\n\n\n\nHow many significant figures are in each: (a) 0.00420, (b) 3,050, (c) 3,050., (d) 12.300?\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\n\n3 sig figs — leading zeros don’t count, trailing zero after the 2 does\n3 sig figs — trailing zero with no decimal doesn’t count\n4 sig figs — the decimal point makes the trailing zero count\n5 sig figs — all digits count once a decimal point is present"
+  },
+  {
+    "objectID": "chemistry/matter-and-measurement.html#quick-check",
+    "href": "chemistry/matter-and-measurement.html#quick-check",
+    "title": "Unit 1: Matter & Measurement",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. Which of these is a chemical change?\n Ice melting into water\n Iron rusting\n Dissolving sugar in tea\n Shredding paper\nCheck Answer\n\n\n\n\n2. Saltwater is an example of a:\n Compound\n Homogeneous mixture\n Heterogeneous mixture\n Element\nCheck Answer\n\n\n\n\n3. The number 0.00420 has how many significant figures?\n 2\n 3\n 5\n 6\nCheck Answer"
+  },
+  {
+    "objectID": "chemistry/atomic-structure.html",
+    "href": "chemistry/atomic-structure.html",
+    "title": "Unit 2: Atomic Structure & the Periodic Table",
+    "section": "",
+    "text": "An atom has three particles:\n\n\n\nParticle\nCharge\nLocation\nMass\n\n\n\n\nProton\n+1\nNucleus\n~1 amu\n\n\nNeutron\n0\nNucleus\n~1 amu\n\n\nElectron\n-1\nElectron cloud\n~0 (negligible)\n\n\n\n\nAtomic number (Z) = number of protons — this defines the element.\nMass number (A) = protons + neutrons.\nIsotopes are atoms of the same element with different numbers of neutrons (same Z, different A). Written as, e.g., carbon-14.\nIn a neutral atom, electrons = protons. Ions form when atoms gain or lose electrons.\n\n\n\n\nElements are arranged by increasing atomic number into rows (periods) and columns (groups/families). Elements in the same group share similar chemical behavior because they have the same number of valence electrons (outermost shell).\nKey periodic trends, and why they happen:\n\nAtomic radius decreases left→right (more protons pull electrons in tighter), increases top→bottom (more electron shells).\nIonization energy (energy to remove an electron) increases left→right, decreases top→bottom — it’s the opposite pattern from radius, because atoms held tightly are harder to strip an electron from.\nElectronegativity (how strongly an atom pulls on shared electrons) follows the same trend as ionization energy, peaking at fluorine.\n\n\n\n\n\n\n\nTipMemory anchor\n\n\n\nThink of it as a “diagonal pull toward the top-right corner”: radius shrinks and pulling power grows as you move toward fluorine/helium, because the nucleus has more protons but electrons stay in a shell close to it."
+  },
+  {
+    "objectID": "chemistry/atomic-structure.html#key-concepts",
+    "href": "chemistry/atomic-structure.html#key-concepts",
+    "title": "Unit 2: Atomic Structure & the Periodic Table",
+    "section": "",
+    "text": "An atom has three particles:\n\n\n\nParticle\nCharge\nLocation\nMass\n\n\n\n\nProton\n+1\nNucleus\n~1 amu\n\n\nNeutron\n0\nNucleus\n~1 amu\n\n\nElectron\n-1\nElectron cloud\n~0 (negligible)\n\n\n\n\nAtomic number (Z) = number of protons — this defines the element.\nMass number (A) = protons + neutrons.\nIsotopes are atoms of the same element with different numbers of neutrons (same Z, different A). Written as, e.g., carbon-14.\nIn a neutral atom, electrons = protons. Ions form when atoms gain or lose electrons.\n\n\n\n\nElements are arranged by increasing atomic number into rows (periods) and columns (groups/families). Elements in the same group share similar chemical behavior because they have the same number of valence electrons (outermost shell).\nKey periodic trends, and why they happen:\n\nAtomic radius decreases left→right (more protons pull electrons in tighter), increases top→bottom (more electron shells).\nIonization energy (energy to remove an electron) increases left→right, decreases top→bottom — it’s the opposite pattern from radius, because atoms held tightly are harder to strip an electron from.\nElectronegativity (how strongly an atom pulls on shared electrons) follows the same trend as ionization energy, peaking at fluorine.\n\n\n\n\n\n\n\nTipMemory anchor\n\n\n\nThink of it as a “diagonal pull toward the top-right corner”: radius shrinks and pulling power grows as you move toward fluorine/helium, because the nucleus has more protons but electrons stay in a shell close to it."
+  },
+  {
+    "objectID": "chemistry/atomic-structure.html#practice-problems",
+    "href": "chemistry/atomic-structure.html#practice-problems",
+    "title": "Unit 2: Atomic Structure & the Periodic Table",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nAn atom has 17 protons, 18 neutrons, and 17 electrons. Identify the element, write the mass number, and state whether it’s a neutral atom or an ion.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\n17 protons → atomic number 17 → chlorine (Cl). Mass number = 17 protons + 18 neutrons = 35. Protons (17) = electrons (17) → neutral atom (this is Cl-35).\n\n\n\n\nWithout looking at a periodic table, predict which has the larger atomic radius: sodium (Na) or chlorine (Cl). Explain why.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nSodium is larger. Both are in period 3, but chlorine has more protons pulling its electron cloud inward, while sodium’s weaker nuclear pull lets its outer electron sit farther out.\n\n\n\n\nRank these by increasing ionization energy: potassium (K), lithium (Li), fluorine (F).\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nK &lt; Li &lt; F. Ionization energy decreases down a group (K is below Li) and increases across a period toward the right (F is far right, hardest to strip an electron from)."
+  },
+  {
+    "objectID": "chemistry/atomic-structure.html#quick-check",
+    "href": "chemistry/atomic-structure.html#quick-check",
+    "title": "Unit 2: Atomic Structure & the Periodic Table",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. What determines which element an atom is?\n Number of neutrons\n Number of electrons\n Number of protons\n Mass number\nCheck Answer\n\n\n\n\n2. Two atoms of the same element with different numbers of neutrons are called:\n Ions\n Isotopes\n Isomers\n Allotropes\nCheck Answer\n\n\n\n\n3. Moving left to right across a period, atomic radius:\n Increases\n Decreases\n Stays the same\n Increases then decreases\nCheck Answer"
+  },
+  {
+    "objectID": "chemistry/bonding.html",
+    "href": "chemistry/bonding.html",
+    "title": "Unit 3: Chemical Bonding",
+    "section": "",
+    "text": "Atoms bond to become more stable, generally by achieving a full outer shell (the octet rule — 8 valence electrons, like the noble gases).\n\n\nForm between a metal and a nonmetal. The metal loses electrons (becomes a positive cation), and the nonmetal gains them (becomes a negative anion). The opposite charges attract.\n\nExample: Na loses 1 electron → Na⁺; Cl gains 1 electron → Cl⁻ → NaCl\nNaming: metal name + nonmetal root + “-ide” (sodium chloride)\n\n\n\n\nForm between two nonmetals, which share electrons instead of transferring them.\n\nNonpolar covalent: electrons shared roughly equally (same or very similar elements, e.g., O₂)\nPolar covalent: shared unequally because one atom is more electronegative (e.g., H₂O — oxygen pulls harder)\nNaming: use prefixes (mono-, di-, tri-, tetra-…) for each element, e.g., CO₂ = carbon dioxide\n\n\n\n\n\nCount total valence electrons (add up group numbers).\nPlace least electronegative atom in the center (never H or F).\nConnect atoms with single bonds (2 electrons each).\nFill remaining electrons as lone pairs to satisfy octets, outer atoms first.\nIf the center atom is short of an octet, turn a lone pair into a double/triple bond.\n\n\n\n\n\n\n\nTipTelling ionic and covalent apart fast\n\n\n\nMetal + nonmetal → ionic. Nonmetal + nonmetal → covalent. Check a periodic table: metals are the majority on the left/middle, nonmetals are on the upper right (plus hydrogen)."
+  },
+  {
+    "objectID": "chemistry/bonding.html#key-concepts",
+    "href": "chemistry/bonding.html#key-concepts",
+    "title": "Unit 3: Chemical Bonding",
+    "section": "",
+    "text": "Atoms bond to become more stable, generally by achieving a full outer shell (the octet rule — 8 valence electrons, like the noble gases).\n\n\nForm between a metal and a nonmetal. The metal loses electrons (becomes a positive cation), and the nonmetal gains them (becomes a negative anion). The opposite charges attract.\n\nExample: Na loses 1 electron → Na⁺; Cl gains 1 electron → Cl⁻ → NaCl\nNaming: metal name + nonmetal root + “-ide” (sodium chloride)\n\n\n\n\nForm between two nonmetals, which share electrons instead of transferring them.\n\nNonpolar covalent: electrons shared roughly equally (same or very similar elements, e.g., O₂)\nPolar covalent: shared unequally because one atom is more electronegative (e.g., H₂O — oxygen pulls harder)\nNaming: use prefixes (mono-, di-, tri-, tetra-…) for each element, e.g., CO₂ = carbon dioxide\n\n\n\n\n\nCount total valence electrons (add up group numbers).\nPlace least electronegative atom in the center (never H or F).\nConnect atoms with single bonds (2 electrons each).\nFill remaining electrons as lone pairs to satisfy octets, outer atoms first.\nIf the center atom is short of an octet, turn a lone pair into a double/triple bond.\n\n\n\n\n\n\n\nTipTelling ionic and covalent apart fast\n\n\n\nMetal + nonmetal → ionic. Nonmetal + nonmetal → covalent. Check a periodic table: metals are the majority on the left/middle, nonmetals are on the upper right (plus hydrogen)."
+  },
+  {
+    "objectID": "chemistry/bonding.html#practice-problems",
+    "href": "chemistry/bonding.html#practice-problems",
+    "title": "Unit 3: Chemical Bonding",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nPredict whether each compound is ionic or covalent: (a) MgO, (b) CO₂, (c) KBr, (d) NH₃.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\n\nMgO — ionic (metal Mg + nonmetal O)\nCO₂ — covalent (both nonmetals)\nKBr — ionic (metal K + nonmetal Br)\nNH₃ — covalent (both nonmetals)\n\n\n\n\n\nName the ionic compound formed between calcium and fluorine, and write its formula.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nCalcium forms Ca²⁺, fluorine forms F⁻. You need 2 fluorines to balance the +2 charge: CaF₂, named calcium fluoride.\n\n\n\n\nDraw the Lewis structure for CO₂ (carbon center) and state how many bonding pairs surround the carbon.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nTotal valence electrons: C (4) + 2×O (6 each) = 16. Carbon in the center, single-bonded to each oxygen uses 4 electrons, leaving 12 for lone pairs. Giving each oxygen 3 lone pairs only satisfies their octet, but carbon has just 4 electrons around it (needs 8) — so each C–O bond becomes a double bond (O=C=O). Carbon ends up with 2 double bonds (4 bonding pairs total), each oxygen keeps 2 lone pairs."
+  },
+  {
+    "objectID": "chemistry/bonding.html#quick-check",
+    "href": "chemistry/bonding.html#quick-check",
+    "title": "Unit 3: Chemical Bonding",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. An ionic bond forms between:\n Two nonmetals\n Two metals\n A metal and a nonmetal\n Any two atoms\nCheck Answer\n\n\n\n\n2. In a covalent bond, atoms:\n Transfer electrons completely\n Share electrons\n Repel each other\n Exchange protons\nCheck Answer\n\n\n\n\n3. What is the formula for the ionic compound between K and Br?\n KBr₂\n KBr\n K₂Br\n K₂Br₂\nCheck Answer"
+  },
+  {
+    "objectID": "ap-human-geo/thinking-geographically.html",
+    "href": "ap-human-geo/thinking-geographically.html",
+    "title": "Unit 1: Thinking Geographically",
+    "section": "",
+    "text": "Absolute location: an exact position (coordinates, address).\nRelative location: where something is in relation to other things (“east of the river”).\nSpatial distribution: how something is arranged across an area — described by:\n\nDensity (how much/many per unit area)\nConcentration (clustered vs. dispersed)\nPattern (geometric, random, linear…)\n\n\n\n\n\nIn geography, scale means the level of analysis — local, regional, national, or global. The “scale of analysis” matters: a trend that appears at the national level (e.g., “the US is aging”) can look totally different city by city. This is related to the modifiable areal unit problem — how you draw boundaries on a map can change what pattern you appear to see.\n\n\n\n\nFormal region: shares an official/measurable trait (a country, a climate zone)\nFunctional region: organized around a hub/node (a pizza delivery zone, a metro transit system)\nPerceptual (vernacular) region: defined by people’s mental image, not hard data (“the South,” “the Midwest”)\n\n\n\n\nGeographers study how humans adapt to, modify, and depend on their environment (e.g., building levees, irrigation, urban heat islands).\n\n\n\n\n\n\nTipExam-writing tip\n\n\n\nWhen APHG asks you to “explain” a spatial pattern, always connect it to a process — don’t just describe the map, say why it looks that way (migration, trade routes, physical geography, policy, etc.)."
+  },
+  {
+    "objectID": "ap-human-geo/thinking-geographically.html#key-concepts",
+    "href": "ap-human-geo/thinking-geographically.html#key-concepts",
+    "title": "Unit 1: Thinking Geographically",
+    "section": "",
+    "text": "Absolute location: an exact position (coordinates, address).\nRelative location: where something is in relation to other things (“east of the river”).\nSpatial distribution: how something is arranged across an area — described by:\n\nDensity (how much/many per unit area)\nConcentration (clustered vs. dispersed)\nPattern (geometric, random, linear…)\n\n\n\n\n\nIn geography, scale means the level of analysis — local, regional, national, or global. The “scale of analysis” matters: a trend that appears at the national level (e.g., “the US is aging”) can look totally different city by city. This is related to the modifiable areal unit problem — how you draw boundaries on a map can change what pattern you appear to see.\n\n\n\n\nFormal region: shares an official/measurable trait (a country, a climate zone)\nFunctional region: organized around a hub/node (a pizza delivery zone, a metro transit system)\nPerceptual (vernacular) region: defined by people’s mental image, not hard data (“the South,” “the Midwest”)\n\n\n\n\nGeographers study how humans adapt to, modify, and depend on their environment (e.g., building levees, irrigation, urban heat islands).\n\n\n\n\n\n\nTipExam-writing tip\n\n\n\nWhen APHG asks you to “explain” a spatial pattern, always connect it to a process — don’t just describe the map, say why it looks that way (migration, trade routes, physical geography, policy, etc.)."
+  },
+  {
+    "objectID": "ap-human-geo/thinking-geographically.html#practice-problems",
+    "href": "ap-human-geo/thinking-geographically.html#practice-problems",
+    "title": "Unit 1: Thinking Geographically",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nClassify each region type: (a) the Sun Belt, (b) the state of Ohio, (c) the coverage area of a local pizza delivery chain.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\n\nSun Belt — perceptual/vernacular region (no official boundary, based on shared perception)\nOhio — formal region (official political boundary)\nPizza delivery zone — functional region (organized around a central node, the store)\n\n\n\n\n\nA news report says “crime is rising in the Midwest.” Explain one problem with analyzing this claim only at that scale.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nThe Midwest is a huge, varied area — a regional-scale rise could be driven by one or two cities while most places see no change, or the pattern could reverse itself at the city or neighborhood scale. Zooming to a finer scale of analysis is necessary before drawing conclusions about causes.\n\n\n\n\nIs “distance from the coast” an example of absolute or relative location? Explain.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nRelative location — it describes position in relation to another feature (the coast), not a fixed coordinate."
+  },
+  {
+    "objectID": "ap-human-geo/thinking-geographically.html#quick-check",
+    "href": "ap-human-geo/thinking-geographically.html#quick-check",
+    "title": "Unit 1: Thinking Geographically",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. A region defined by shared perception rather than official data is a:\n Formal region\n Functional region\n Perceptual region\n Absolute region\nCheck Answer\n\n\n\n\n2. \"12 miles north of downtown\" describes:\n Absolute location\n Relative location\n A functional region\n A formal region\nCheck Answer\n\n\n\n\n3. A transit system's service area is best described as a:\n Formal region\n Functional region\n Perceptual region\n None of these\nCheck Answer"
+  },
+  {
+    "objectID": "ap-human-geo/index.html",
+    "href": "ap-human-geo/index.html",
+    "title": "AP Human Geography",
+    "section": "",
+    "text": "AP Human Geography (APHG) studies patterns and processes of how humans organize themselves across space — where people live, how culture spreads, and how political boundaries form. It’s less about memorizing maps and more about explaining why patterns look the way they do.\n\nUnits\n\nThinking Geographically — maps, spatial concepts, scale, and geographic reasoning\nPopulation & Migration — population growth, the demographic transition, push/pull factors\nCulture — cultural landscapes, diffusion, language and religion patterns\n\n\n\n\n\n\n\nNote\n\n\n\nLater units (political geography, agriculture, urbanization, industry/development) follow the same page pattern.\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "language-arts/grammar-mechanics.html",
+    "href": "language-arts/grammar-mechanics.html",
+    "title": "Unit 3: Grammar & Mechanics",
+    "section": "",
+    "text": "Independent clause: has a subject and verb, can stand alone as a sentence.\nDependent (subordinate) clause: has a subject and verb, but cannot stand alone (starts with words like because, although, when, which).\n\nCommon errors come from mishandling these:\n\nRun-on sentence: two independent clauses jammed together with no punctuation/connector.\nComma splice: two independent clauses joined with just a comma (needs a conjunction, semicolon, or period instead).\nSentence fragment: a dependent clause (or incomplete thought) punctuated as if it were a full sentence.\n\n\n\n\n\nSemicolon: joins two related independent clauses without a conjunction (“The exam was hard; everyone left exhausted.”)\nComma before a coordinating conjunction (FANBOYS: for, and, nor, but, or, yet, so) when joining two independent clauses: “She studied all night, but the test was still tough.”\nNo comma needed if the conjunction joins just a verb phrase, not a full second clause: “She studied all night and passed the test.” (no comma — “passed the test” isn’t a full independent clause with its own subject)\nApostrophes: show possession (the dog’s leash) or contraction (it’s = it is) — never just to make a word plural.\n\n\n\n\n\nits (possessive) vs. it’s (it is)\ntheir (possessive) vs. there (place) vs. they’re (they are)\nyour (possessive) vs. you’re (you are)\naffect (usually a verb, to influence) vs. effect (usually a noun, a result)\n\n\n\n\n\n\n\nTipQuick fragment test\n\n\n\nRead the clause alone. If it starts with a word like because, although, since, when, while, which and doesn’t have another independent clause attached, it’s a fragment — it’s answering a question (“why?” “when?”) that was never asked."
+  },
+  {
+    "objectID": "language-arts/grammar-mechanics.html#key-concepts",
+    "href": "language-arts/grammar-mechanics.html#key-concepts",
+    "title": "Unit 3: Grammar & Mechanics",
+    "section": "",
+    "text": "Independent clause: has a subject and verb, can stand alone as a sentence.\nDependent (subordinate) clause: has a subject and verb, but cannot stand alone (starts with words like because, although, when, which).\n\nCommon errors come from mishandling these:\n\nRun-on sentence: two independent clauses jammed together with no punctuation/connector.\nComma splice: two independent clauses joined with just a comma (needs a conjunction, semicolon, or period instead).\nSentence fragment: a dependent clause (or incomplete thought) punctuated as if it were a full sentence.\n\n\n\n\n\nSemicolon: joins two related independent clauses without a conjunction (“The exam was hard; everyone left exhausted.”)\nComma before a coordinating conjunction (FANBOYS: for, and, nor, but, or, yet, so) when joining two independent clauses: “She studied all night, but the test was still tough.”\nNo comma needed if the conjunction joins just a verb phrase, not a full second clause: “She studied all night and passed the test.” (no comma — “passed the test” isn’t a full independent clause with its own subject)\nApostrophes: show possession (the dog’s leash) or contraction (it’s = it is) — never just to make a word plural.\n\n\n\n\n\nits (possessive) vs. it’s (it is)\ntheir (possessive) vs. there (place) vs. they’re (they are)\nyour (possessive) vs. you’re (you are)\naffect (usually a verb, to influence) vs. effect (usually a noun, a result)\n\n\n\n\n\n\n\nTipQuick fragment test\n\n\n\nRead the clause alone. If it starts with a word like because, although, since, when, while, which and doesn’t have another independent clause attached, it’s a fragment — it’s answering a question (“why?” “when?”) that was never asked."
+  },
+  {
+    "objectID": "language-arts/grammar-mechanics.html#practice-problems",
+    "href": "language-arts/grammar-mechanics.html#practice-problems",
+    "title": "Unit 3: Grammar & Mechanics",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nIdentify the error and fix it: “I finished my homework, I went outside to play.”\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nThis is a comma splice (two independent clauses joined by only a comma). Fix options: “I finished my homework, so I went outside to play.” or “I finished my homework; I went outside to play.” or “I finished my homework. I went outside to play.”\n\n\n\n\nIs this a complete sentence or a fragment? “Because the weather turned cold overnight.”\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nFragment — it’s a dependent clause with no independent clause attached. It needs something like: “Because the weather turned cold overnight, we brought the plants inside.”\n\n\n\n\nChoose the correct word: “___ going to need ___ umbrella because ___ raining outside.” (they’re/their/there, its/it’s, its/it’s)\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\n“They’re going to need their umbrella because it’s raining outside.” (They’re = they are; their = possessive; it’s = it is)"
+  },
+  {
+    "objectID": "language-arts/grammar-mechanics.html#quick-check",
+    "href": "language-arts/grammar-mechanics.html#quick-check",
+    "title": "Unit 3: Grammar & Mechanics",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. Two independent clauses joined by only a comma is a:\n Sentence fragment\n Comma splice\n Dependent clause\n Semicolon error\nCheck Answer\n\n\n\n\n2. Which word is possessive?\n It's\n Its\n They're\n You're\nCheck Answer\n\n\n\n\n3. A semicolon is best used to:\n Show possession\n Join two related independent clauses\n Introduce a quotation\n End a fragment\nCheck Answer"
+  },
+  {
+    "objectID": "language-arts/close-reading.html",
+    "href": "language-arts/close-reading.html",
+    "title": "Unit 1: Close Reading & Literary Analysis",
+    "section": "",
+    "text": "A topic is what a work is about in one or two words (loss, ambition, family). A theme is the insight or claim the work makes about that topic — a full sentence. “Ambition” is a topic; “unchecked ambition corrodes relationships” is a theme.\n\n\n\n\nTone = the author’s/narrator’s attitude toward the subject (sarcastic, reverent, bitter).\nMood = the emotional atmosphere the reader feels (tense, nostalgic, eerie).\n\nThese are shaped by diction (word choice), syntax (sentence structure), and imagery.\n\n\n\n\n\n\n\n\n\n\nDevice\nWhat it does\n\n\n\n\nSymbolism\nAn object/image represents a larger idea\n\n\nForeshadowing\nHints at events to come\n\n\nIrony\nGap between expectation and reality (situational, verbal, dramatic)\n\n\nMotif\nA recurring element that reinforces a theme\n\n\nCharacterization\nHow a character is revealed (direct statement vs. actions/dialogue = indirect)\n\n\n\n\n\n\nThe core move is: claim → evidence → analysis. Don’t just quote the text — explain how the quote’s specific word choice or structure supports your claim. A weak analysis restates the quote; a strong one explains the effect of the technique.\n\n\n\n\n\n\nTipUpgrade weak analysis\n\n\n\nInstead of “This shows the author uses imagery,” try: “The imagery of ‘rust creeping along the fence’ mirrors the slow decay of the family’s relationship, making the abstract idea of estrangement feel physically inevitable.”"
+  },
+  {
+    "objectID": "language-arts/close-reading.html#key-concepts",
+    "href": "language-arts/close-reading.html#key-concepts",
+    "title": "Unit 1: Close Reading & Literary Analysis",
+    "section": "",
+    "text": "A topic is what a work is about in one or two words (loss, ambition, family). A theme is the insight or claim the work makes about that topic — a full sentence. “Ambition” is a topic; “unchecked ambition corrodes relationships” is a theme.\n\n\n\n\nTone = the author’s/narrator’s attitude toward the subject (sarcastic, reverent, bitter).\nMood = the emotional atmosphere the reader feels (tense, nostalgic, eerie).\n\nThese are shaped by diction (word choice), syntax (sentence structure), and imagery.\n\n\n\n\n\n\n\n\n\n\nDevice\nWhat it does\n\n\n\n\nSymbolism\nAn object/image represents a larger idea\n\n\nForeshadowing\nHints at events to come\n\n\nIrony\nGap between expectation and reality (situational, verbal, dramatic)\n\n\nMotif\nA recurring element that reinforces a theme\n\n\nCharacterization\nHow a character is revealed (direct statement vs. actions/dialogue = indirect)\n\n\n\n\n\n\nThe core move is: claim → evidence → analysis. Don’t just quote the text — explain how the quote’s specific word choice or structure supports your claim. A weak analysis restates the quote; a strong one explains the effect of the technique.\n\n\n\n\n\n\nTipUpgrade weak analysis\n\n\n\nInstead of “This shows the author uses imagery,” try: “The imagery of ‘rust creeping along the fence’ mirrors the slow decay of the family’s relationship, making the abstract idea of estrangement feel physically inevitable.”"
+  },
+  {
+    "objectID": "language-arts/close-reading.html#practice-problems",
+    "href": "language-arts/close-reading.html#practice-problems",
+    "title": "Unit 1: Close Reading & Literary Analysis",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nTurn this topic into a theme statement: “isolation” (as explored in a story where a character withdraws after a loss).\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nSample theme: “Isolation, while initially protective, ultimately prevents healing by cutting a person off from the support they need.” (Any full-sentence claim that goes beyond the single word works.)\n\n\n\n\nA character is described by the narrator as “honest and kind,” but the story shows them lying to protect their own reputation. What’s the difference between the direct and indirect characterization here, and what might it suggest?\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nThe narrator’s description is direct characterization (“honest and kind” stated outright). The character’s actions (lying) are indirect characterization. The contradiction suggests unreliable narration or that the character’s self-image doesn’t match reality — a gap worth analyzing.\n\n\n\n\nIdentify the device: a storm builds throughout a chapter, then breaks into violence right as two characters have their final argument.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nThis is symbolism (the storm represents the emotional conflict) and could also be discussed as foreshadowing if earlier hints pointed to the coming argument."
+  },
+  {
+    "objectID": "language-arts/close-reading.html#quick-check",
+    "href": "language-arts/close-reading.html#quick-check",
+    "title": "Unit 1: Close Reading & Literary Analysis",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. A theme, unlike a topic, must be expressed as a:\n Single word\n Full sentence/claim\n Character name\n Quote from the text\nCheck Answer\n\n\n\n\n2. The emotional atmosphere a reader feels while reading is called the:\n Tone\n Mood\n Motif\n Diction\nCheck Answer\n\n\n\n\n3. Revealing a character through their actions and dialogue, rather than a direct statement, is:\n Direct characterization\n Indirect characterization\n Foreshadowing\n Symbolism\nCheck Answer"
+  },
+  {
+    "objectID": "geometry/congruence-similarity.html",
+    "href": "geometry/congruence-similarity.html",
+    "title": "Unit 3: Congruence & Similarity",
+    "section": "",
+    "text": "Two triangles are congruent (identical in shape and size) if you can show one of these matches, without needing to check all 6 parts:\n\nSSS: all three sides match\nSAS: two sides and the included angle (the angle between them) match\nASA: two angles and the included side match\nAAS: two angles and a non-included side match\nHL (right triangles only): hypotenuse and one leg match\n\n\n\n\n\n\n\nTipWatch out for “SSA”\n\n\n\nThere’s no such thing as an “SSA” shortcut — two sides and a non-included angle do not guarantee congruence (it can produce two different triangles). Always double check the angle is between the two given sides for SAS.\n\n\n\n\n\nTwo triangles are similar (same shape, proportional size) if their corresponding angles are congruent and their corresponding sides are in the same ratio. Shortcuts:\n\nAA (Angle-Angle): if two angles match, the third automatically matches too (angles sum to 180°), so the triangles are similar.\nSAS similarity: two sides in the same ratio, and the included angle congruent.\nSSS similarity: all three sides in the same ratio.\n\n\n\n\n\nPythagorean Theorem: a² + b² = c², where c is the hypotenuse (longest side, opposite the right angle).\nSpecial right triangles: 45-45-90 triangles have legs in ratio 1:1:√2; 30-60-90 triangles have sides in ratio 1:√3:2."
+  },
+  {
+    "objectID": "geometry/congruence-similarity.html#key-concepts",
+    "href": "geometry/congruence-similarity.html#key-concepts",
+    "title": "Unit 3: Congruence & Similarity",
+    "section": "",
+    "text": "Two triangles are congruent (identical in shape and size) if you can show one of these matches, without needing to check all 6 parts:\n\nSSS: all three sides match\nSAS: two sides and the included angle (the angle between them) match\nASA: two angles and the included side match\nAAS: two angles and a non-included side match\nHL (right triangles only): hypotenuse and one leg match\n\n\n\n\n\n\n\nTipWatch out for “SSA”\n\n\n\nThere’s no such thing as an “SSA” shortcut — two sides and a non-included angle do not guarantee congruence (it can produce two different triangles). Always double check the angle is between the two given sides for SAS.\n\n\n\n\n\nTwo triangles are similar (same shape, proportional size) if their corresponding angles are congruent and their corresponding sides are in the same ratio. Shortcuts:\n\nAA (Angle-Angle): if two angles match, the third automatically matches too (angles sum to 180°), so the triangles are similar.\nSAS similarity: two sides in the same ratio, and the included angle congruent.\nSSS similarity: all three sides in the same ratio.\n\n\n\n\n\nPythagorean Theorem: a² + b² = c², where c is the hypotenuse (longest side, opposite the right angle).\nSpecial right triangles: 45-45-90 triangles have legs in ratio 1:1:√2; 30-60-90 triangles have sides in ratio 1:√3:2."
+  },
+  {
+    "objectID": "geometry/congruence-similarity.html#practice-problems",
+    "href": "geometry/congruence-similarity.html#practice-problems",
+    "title": "Unit 3: Congruence & Similarity",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nTwo triangles share two pairs of congruent angles: 50° and 70°. Are they similar? Why?\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nYes — similar by AA. If two angles match, the third must also match (since angles sum to 180° in every triangle), so the shapes are guaranteed similar.\n\n\n\n\nA right triangle has legs of 6 and 8. Find the hypotenuse.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\n6² + 8² = 36 + 64 = 100. √100 = 10\n\n\n\n\nTriangle ABC has sides 4, 6, 8. Triangle DEF has sides 6, 9, 12. Are they similar? What’s the scale factor?\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nCheck the ratios: 6/4 = 1.5, 9/6 = 1.5, 12/8 = 1.5 — all equal, so yes, similar by SSS similarity, with a scale factor of 1.5."
+  },
+  {
+    "objectID": "geometry/congruence-similarity.html#quick-check",
+    "href": "geometry/congruence-similarity.html#quick-check",
+    "title": "Unit 3: Congruence & Similarity",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. Which is NOT a valid triangle congruence shortcut?\n SSS\n ASA\n SSA\n SAS\nCheck Answer\n\n\n\n\n2. If two triangles have two pairs of congruent angles, they are similar by:\n AA\n SSS\n HL\n SSA\nCheck Answer\n\n\n\n\n3. A right triangle has legs 9 and 12. What is the hypotenuse?\n 13\n 15\n 18\n 21\nCheck Answer"
+  },
+  {
+    "objectID": "geometry/foundations.html",
+    "href": "geometry/foundations.html",
+    "title": "Unit 1: Foundations & Proof Basics",
+    "section": "",
+    "text": "Point: a location, no size (labeled with a capital letter)\nLine: extends infinitely in both directions, no thickness\nPlane: a flat surface extending infinitely in all directions\n\nFrom these, we define segments (part of a line with two endpoints) and rays (starts at a point, extends infinitely one direction).\n\n\n\n\nComplementary angles: sum to 90°\nSupplementary angles: sum to 180°\nVertical angles: opposite angles formed by two intersecting lines — always congruent\nLinear pair: two adjacent angles that form a straight line — always supplementary\n\n\n\n\nA postulate (or axiom) is accepted as true without proof (e.g., “through any two points there is exactly one line”). A theorem is a statement proven using postulates, definitions, and previously proven theorems.\n\n\n\nA proof is a logical argument that gets from given information to a conclusion, one justified step at a time.\n\n\n\nStatement\nReason\n\n\n\n\n∠1 and ∠2 form a linear pair\nGiven\n\n\n∠1 + ∠2 = 180°\nDefinition of linear pair\n\n\n∠1 = 70°\nGiven\n\n\n∠2 = 110°\nSubstitution / Subtraction property\n\n\n\n\n\n\n\n\n\nTipHow to start any proof\n\n\n\nWrite down exactly what’s “Given” as your first line, and what you need to prove as your last line. Then work backward from the conclusion, asking “what would let me claim this?” — that usually reveals the missing middle steps."
+  },
+  {
+    "objectID": "geometry/foundations.html#key-concepts",
+    "href": "geometry/foundations.html#key-concepts",
+    "title": "Unit 1: Foundations & Proof Basics",
+    "section": "",
+    "text": "Point: a location, no size (labeled with a capital letter)\nLine: extends infinitely in both directions, no thickness\nPlane: a flat surface extending infinitely in all directions\n\nFrom these, we define segments (part of a line with two endpoints) and rays (starts at a point, extends infinitely one direction).\n\n\n\n\nComplementary angles: sum to 90°\nSupplementary angles: sum to 180°\nVertical angles: opposite angles formed by two intersecting lines — always congruent\nLinear pair: two adjacent angles that form a straight line — always supplementary\n\n\n\n\nA postulate (or axiom) is accepted as true without proof (e.g., “through any two points there is exactly one line”). A theorem is a statement proven using postulates, definitions, and previously proven theorems.\n\n\n\nA proof is a logical argument that gets from given information to a conclusion, one justified step at a time.\n\n\n\nStatement\nReason\n\n\n\n\n∠1 and ∠2 form a linear pair\nGiven\n\n\n∠1 + ∠2 = 180°\nDefinition of linear pair\n\n\n∠1 = 70°\nGiven\n\n\n∠2 = 110°\nSubstitution / Subtraction property\n\n\n\n\n\n\n\n\n\nTipHow to start any proof\n\n\n\nWrite down exactly what’s “Given” as your first line, and what you need to prove as your last line. Then work backward from the conclusion, asking “what would let me claim this?” — that usually reveals the missing middle steps."
+  },
+  {
+    "objectID": "geometry/foundations.html#practice-problems",
+    "href": "geometry/foundations.html#practice-problems",
+    "title": "Unit 1: Foundations & Proof Basics",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nTwo angles are supplementary. One measures 112°. Find the other.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\n180° − 112° = 68°\n\n\n\n\nTwo lines intersect, forming four angles. One angle measures 55°. Find the measures of the other three.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nThe angle vertical to the 55° angle is also 55° (vertical angles are congruent). The two angles adjacent to it form linear pairs with it: 180° − 55° = 125° each.\n\n\n\n\nFill in the missing reason: Given ∠A ≅ ∠B and ∠B ≅ ∠C, prove ∠A ≅ ∠C. The reason is ______.\n\n\n\n\n\n\n\nNoteSolution\n\n\n\n\n\nTransitive property of congruence — if two things are each congruent to a third thing, they’re congruent to each other."
+  },
+  {
+    "objectID": "geometry/foundations.html#quick-check",
+    "href": "geometry/foundations.html#quick-check",
+    "title": "Unit 1: Foundations & Proof Basics",
+    "section": "Quick Check",
+    "text": "Quick Check\n\n\n\n1. Two angles that sum to 90° are called:\n Supplementary\n Complementary\n Vertical\n Congruent\nCheck Answer\n\n\n\n\n2. Vertical angles are always:\n Supplementary\n Complementary\n Congruent\n Right angles\nCheck Answer\n\n\n\n\n3. A statement accepted as true without proof is a:\n Theorem\n Postulate\n Corollary\n Conjecture\nCheck Answer"
+  }
+]
