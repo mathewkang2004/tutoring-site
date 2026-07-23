@@ -1,0 +1,20 @@
+---
+title: "Language Arts"
+subtitle: "Reading closely, arguing well, writing cleanly"
+---
+
+```{=html}
+<script>document.body.classList.add('language-arts');</script>
+```
+
+High school language arts asks you to do three things at a higher level than before: read texts closely and explain *how* they create meaning, build persuasive arguments, and write with precise, correct mechanics.
+
+### Units
+
+1. [Close Reading & Literary Analysis](close-reading.qmd) — theme, tone, and analyzing how literary devices create meaning
+2. [Rhetoric & Argumentative Writing](rhetoric-argument.qmd) — ethos/pathos/logos, building a thesis-driven argument
+3. [Grammar & Mechanics](grammar-mechanics.qmd) — clauses, common errors, and punctuation rules that trip people up
+
+::: {.callout-note}
+Later units (research writing, vocabulary/etymology, specific texts) can follow this same page structure.
+:::

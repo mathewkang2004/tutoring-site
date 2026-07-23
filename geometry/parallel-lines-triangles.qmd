@@ -1,0 +1,94 @@
+---
+title: "Unit 2: Parallel Lines & Triangles"
+---
+
+```{=html}
+<script>document.body.classList.add('geometry');</script>
+```
+
+## Key Concepts
+
+### Parallel lines cut by a transversal
+
+When a **transversal** crosses two parallel lines, it creates 8 angles with predictable relationships:
+
+- **Corresponding angles** (same position at each intersection): **congruent**
+- **Alternate interior angles** (between the two lines, opposite sides of the transversal): **congruent**
+- **Alternate exterior angles** (outside the two lines, opposite sides): **congruent**
+- **Co-interior / same-side interior angles** (between the lines, same side): **supplementary**
+
+::: {.callout-tip}
+## The shortcut
+If the lines are parallel: angles in matching positions are congruent, "alternate" pairs are congruent, and any pair that's between the lines *and* on the same side adds to 180°.
+:::
+
+### Triangle angle theorems
+
+- **Triangle Angle Sum Theorem**: the three interior angles of any triangle always add to **180°**.
+- **Exterior Angle Theorem**: an exterior angle of a triangle equals the sum of the two *remote* (non-adjacent) interior angles.
+- **Isosceles Triangle Theorem**: if two sides of a triangle are congruent, the angles opposite those sides are congruent (and vice versa).
+
+## Practice Problems
+
+1. Two parallel lines are cut by a transversal. One angle measures 65°. Find the measure of its co-interior (same-side interior) angle.
+
+::: {.callout-note collapse="true"}
+## Solution
+Co-interior angles are supplementary: 180° − 65° = **115°**
+:::
+
+2. A triangle has angles measuring 40° and 75°. Find the third angle, then find the exterior angle adjacent to it.
+
+::: {.callout-note collapse="true"}
+## Solution
+Third interior angle: 180° − 40° − 75° = **65°**
+The exterior angle adjacent to it is supplementary to it: 180° − 65° = **115°**
+
+(Check with the Exterior Angle Theorem: 40° + 75° = 115°. ✓ It matches, since the exterior angle equals the sum of the two remote interior angles.)
+:::
+
+3. An isosceles triangle has a vertex angle of 40°. Find the two base angles.
+
+::: {.callout-note collapse="true"}
+## Solution
+The two base angles are congruent to each other, and all three angles sum to 180°:
+180° − 40° = 140°, split evenly: 140° ÷ 2 = **70° each**
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. When two parallel lines are cut by a transversal, alternate interior angles are:</p>
+<label><input type="radio" name="m2a" data-correct="false"> Supplementary</label>
+<label><input type="radio" name="m2a" data-correct="true"> Congruent</label>
+<label><input type="radio" name="m2a" data-correct="false"> Complementary</label>
+<label><input type="radio" name="m2a" data-correct="false"> Always 90°</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. The interior angles of any triangle always sum to:</p>
+<label><input type="radio" name="m2b" data-correct="false"> 90°</label>
+<label><input type="radio" name="m2b" data-correct="false"> 270°</label>
+<label><input type="radio" name="m2b" data-correct="true"> 180°</label>
+<label><input type="radio" name="m2b" data-correct="false"> 360°</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. In an isosceles triangle, the angles opposite the two congruent sides are:</p>
+<label><input type="radio" name="m2c" data-correct="false"> Supplementary</label>
+<label><input type="radio" name="m2c" data-correct="false"> Always right angles</label>
+<label><input type="radio" name="m2c" data-correct="true"> Congruent</label>
+<label><input type="radio" name="m2c" data-correct="false"> Complementary</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

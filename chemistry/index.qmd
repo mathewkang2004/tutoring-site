@@ -1,0 +1,20 @@
+---
+title: "Chemistry"
+subtitle: "Building a foundation for high school chem"
+---
+
+```{=html}
+<script>document.body.classList.add('chemistry');</script>
+```
+
+Chemistry is the study of matter — what it's made of and how it changes. These units build up from the basics (matter and measurement) to the atomic-level ideas (atomic structure, bonding) you'll need for everything else in the course.
+
+### Units
+
+1. [Matter & Measurement](matter-and-measurement.qmd) — classifying matter, SI units, significant figures, density
+2. [Atomic Structure & the Periodic Table](atomic-structure.qmd) — protons/neutrons/electrons, isotopes, periodic trends
+3. [Chemical Bonding](bonding.qmd) — ionic vs. covalent bonds, Lewis structures, naming compounds
+
+::: {.callout-note}
+More units (stoichiometry, reactions, gases, acids & bases) can be added the same way as you move further into the course — just copy the pattern of an existing unit page.
+:::

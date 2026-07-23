@@ -1,0 +1,64 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Leveling Up for High School"
+  description: "Study notes, practice, and quizzes for chemistry, AP Human Geo, geometry, and language arts"
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Chemistry
+        menu:
+          - href: chemistry/index.qmd
+            text: "Overview"
+          - href: chemistry/matter-and-measurement.qmd
+            text: "1. Matter & Measurement"
+          - href: chemistry/atomic-structure.qmd
+            text: "2. Atomic Structure & Periodic Table"
+          - href: chemistry/bonding.qmd
+            text: "3. Chemical Bonding"
+      - text: "AP Human Geo"
+        menu:
+          - href: ap-human-geo/index.qmd
+            text: "Overview"
+          - href: ap-human-geo/thinking-geographically.qmd
+            text: "Unit 1: Thinking Geographically"
+          - href: ap-human-geo/population-migration.qmd
+            text: "Unit 2: Population & Migration"
+          - href: ap-human-geo/culture.qmd
+            text: "Unit 3: Culture"
+      - text: Geometry
+        menu:
+          - href: geometry/index.qmd
+            text: "Overview"
+          - href: geometry/foundations.qmd
+            text: "1. Foundations & Proof Basics"
+          - href: geometry/parallel-lines-triangles.qmd
+            text: "2. Parallel Lines & Triangles"
+          - href: geometry/congruence-similarity.qmd
+            text: "3. Congruence & Similarity"
+      - text: "Language Arts"
+        menu:
+          - href: language-arts/index.qmd
+            text: "Overview"
+          - href: language-arts/close-reading.qmd
+            text: "1. Close Reading & Analysis"
+          - href: language-arts/rhetoric-argument.qmd
+            text: "2. Rhetoric & Argument"
+          - href: language-arts/grammar-mechanics.qmd
+            text: "3. Grammar & Mechanics"
+  sidebar: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    include-after-body: quiz.js
+    linkcolor: "#2a6f97"

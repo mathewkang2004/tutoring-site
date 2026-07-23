@@ -1,0 +1,100 @@
+---
+title: "Unit 1: Close Reading & Literary Analysis"
+---
+
+```{=html}
+<script>document.body.classList.add('language-arts');</script>
+```
+
+## Key Concepts
+
+### Theme vs. topic
+
+A **topic** is what a work is about in one or two words (loss, ambition, family). A **theme** is the *insight or claim* the work makes about that topic — a full sentence. "Ambition" is a topic; "unchecked ambition corrodes relationships" is a theme.
+
+### Tone and mood
+
+- **Tone** = the author's/narrator's attitude toward the subject (sarcastic, reverent, bitter).
+- **Mood** = the emotional atmosphere the reader feels (tense, nostalgic, eerie).
+
+These are shaped by **diction** (word choice), **syntax** (sentence structure), and **imagery**.
+
+### Literary devices worth naming precisely
+
+| Device | What it does |
+|---|---|
+| Symbolism | An object/image represents a larger idea |
+| Foreshadowing | Hints at events to come |
+| Irony | Gap between expectation and reality (situational, verbal, dramatic) |
+| Motif | A recurring element that reinforces a theme |
+| Characterization | How a character is revealed (direct statement vs. actions/dialogue = indirect) |
+
+### Writing literary analysis
+
+The core move is: **claim → evidence → analysis**. Don't just quote the text — explain *how* the quote's specific word choice or structure supports your claim. A weak analysis restates the quote; a strong one explains the *effect* of the technique.
+
+::: {.callout-tip}
+## Upgrade weak analysis
+Instead of "This shows the author uses imagery," try: "The imagery of 'rust creeping along the fence' mirrors the slow decay of the family's relationship, making the abstract idea of estrangement feel physically inevitable."
+:::
+
+## Practice Problems
+
+1. Turn this topic into a theme statement: "isolation" (as explored in a story where a character withdraws after a loss).
+
+::: {.callout-note collapse="true"}
+## Solution
+Sample theme: "Isolation, while initially protective, ultimately prevents healing by cutting a person off from the support they need." (Any full-sentence claim that goes beyond the single word works.)
+:::
+
+2. A character is described by the narrator as "honest and kind," but the story shows them lying to protect their own reputation. What's the difference between the direct and indirect characterization here, and what might it suggest?
+
+::: {.callout-note collapse="true"}
+## Solution
+The narrator's description is **direct characterization** ("honest and kind" stated outright). The character's actions (lying) are **indirect characterization**. The contradiction suggests unreliable narration or that the character's self-image doesn't match reality — a gap worth analyzing.
+:::
+
+3. Identify the device: a storm builds throughout a chapter, then breaks into violence right as two characters have their final argument.
+
+::: {.callout-note collapse="true"}
+## Solution
+This is **symbolism** (the storm represents the emotional conflict) and could also be discussed as **foreshadowing** if earlier hints pointed to the coming argument.
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. A theme, unlike a topic, must be expressed as a:</p>
+<label><input type="radio" name="l1a" data-correct="false"> Single word</label>
+<label><input type="radio" name="l1a" data-correct="true"> Full sentence/claim</label>
+<label><input type="radio" name="l1a" data-correct="false"> Character name</label>
+<label><input type="radio" name="l1a" data-correct="false"> Quote from the text</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. The emotional atmosphere a reader feels while reading is called the:</p>
+<label><input type="radio" name="l1b" data-correct="false"> Tone</label>
+<label><input type="radio" name="l1b" data-correct="true"> Mood</label>
+<label><input type="radio" name="l1b" data-correct="false"> Motif</label>
+<label><input type="radio" name="l1b" data-correct="false"> Diction</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. Revealing a character through their actions and dialogue, rather than a direct statement, is:</p>
+<label><input type="radio" name="l1c" data-correct="false"> Direct characterization</label>
+<label><input type="radio" name="l1c" data-correct="true"> Indirect characterization</label>
+<label><input type="radio" name="l1c" data-correct="false"> Foreshadowing</label>
+<label><input type="radio" name="l1c" data-correct="false"> Symbolism</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

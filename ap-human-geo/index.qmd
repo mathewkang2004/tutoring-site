@@ -1,0 +1,20 @@
+---
+title: "AP Human Geography"
+subtitle: "How people, culture, and power shape space"
+---
+
+```{=html}
+<script>document.body.classList.add('ap-human-geo');</script>
+```
+
+AP Human Geography (APHG) studies patterns and processes of how humans organize themselves across space — where people live, how culture spreads, and how political boundaries form. It's less about memorizing maps and more about explaining *why* patterns look the way they do.
+
+### Units
+
+1. [Thinking Geographically](thinking-geographically.qmd) — maps, spatial concepts, scale, and geographic reasoning
+2. [Population & Migration](population-migration.qmd) — population growth, the demographic transition, push/pull factors
+3. [Culture](culture.qmd) — cultural landscapes, diffusion, language and religion patterns
+
+::: {.callout-note}
+Later units (political geography, agriculture, urbanization, industry/development) follow the same page pattern.
+:::

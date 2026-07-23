@@ -1,0 +1,104 @@
+---
+title: "Unit 3: Chemical Bonding"
+---
+
+```{=html}
+<script>document.body.classList.add('chemistry');</script>
+```
+
+## Key Concepts
+
+Atoms bond to become more stable, generally by achieving a full outer shell (the **octet rule** — 8 valence electrons, like the noble gases).
+
+### Ionic bonds
+
+Form between a **metal** and a **nonmetal**. The metal *loses* electrons (becomes a positive cation), and the nonmetal *gains* them (becomes a negative anion). The opposite charges attract.
+
+- Example: Na loses 1 electron → Na⁺; Cl gains 1 electron → Cl⁻ → **NaCl**
+- Naming: metal name + nonmetal root + "-ide" (sodium chlor**ide**)
+
+### Covalent bonds
+
+Form between two **nonmetals**, which *share* electrons instead of transferring them.
+
+- **Nonpolar covalent**: electrons shared roughly equally (same or very similar elements, e.g., O₂)
+- **Polar covalent**: shared unequally because one atom is more electronegative (e.g., H₂O — oxygen pulls harder)
+- Naming: use prefixes (mono-, di-, tri-, tetra-...) for each element, e.g., CO₂ = carbon di**oxide**
+
+### Lewis structures — quick method
+
+1. Count total valence electrons (add up group numbers).
+2. Place least electronegative atom in the center (never H or F).
+3. Connect atoms with single bonds (2 electrons each).
+4. Fill remaining electrons as lone pairs to satisfy octets, outer atoms first.
+5. If the center atom is short of an octet, turn a lone pair into a double/triple bond.
+
+::: {.callout-tip}
+## Telling ionic and covalent apart fast
+Metal + nonmetal → ionic. Nonmetal + nonmetal → covalent. Check a periodic table: metals are the majority on the left/middle, nonmetals are on the upper right (plus hydrogen).
+:::
+
+## Practice Problems
+
+1. Predict whether each compound is ionic or covalent: (a) MgO, (b) CO₂, (c) KBr, (d) NH₃.
+
+::: {.callout-note collapse="true"}
+## Solution
+(a) MgO — **ionic** (metal Mg + nonmetal O)
+(b) CO₂ — **covalent** (both nonmetals)
+(c) KBr — **ionic** (metal K + nonmetal Br)
+(d) NH₃ — **covalent** (both nonmetals)
+:::
+
+2. Name the ionic compound formed between calcium and fluorine, and write its formula.
+
+::: {.callout-note collapse="true"}
+## Solution
+Calcium forms Ca²⁺, fluorine forms F⁻. You need 2 fluorines to balance the +2 charge: **CaF₂**, named **calcium fluoride**.
+:::
+
+3. Draw the Lewis structure for CO₂ (carbon center) and state how many bonding pairs surround the carbon.
+
+::: {.callout-note collapse="true"}
+## Solution
+Total valence electrons: C (4) + 2×O (6 each) = 16.
+Carbon in the center, single-bonded to each oxygen uses 4 electrons, leaving 12 for lone pairs. Giving each oxygen 3 lone pairs only satisfies their octet, but carbon has just 4 electrons around it (needs 8) — so each C–O bond becomes a **double bond** (O=C=O). Carbon ends up with **2 double bonds (4 bonding pairs total)**, each oxygen keeps 2 lone pairs.
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. An ionic bond forms between:</p>
+<label><input type="radio" name="q3a" data-correct="false"> Two nonmetals</label>
+<label><input type="radio" name="q3a" data-correct="false"> Two metals</label>
+<label><input type="radio" name="q3a" data-correct="true"> A metal and a nonmetal</label>
+<label><input type="radio" name="q3a" data-correct="false"> Any two atoms</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. In a covalent bond, atoms:</p>
+<label><input type="radio" name="q3b" data-correct="false"> Transfer electrons completely</label>
+<label><input type="radio" name="q3b" data-correct="true"> Share electrons</label>
+<label><input type="radio" name="q3b" data-correct="false"> Repel each other</label>
+<label><input type="radio" name="q3b" data-correct="false"> Exchange protons</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. What is the formula for the ionic compound between K and Br?</p>
+<label><input type="radio" name="q3c" data-correct="false"> KBr₂</label>
+<label><input type="radio" name="q3c" data-correct="true"> KBr</label>
+<label><input type="radio" name="q3c" data-correct="false"> K₂Br</label>
+<label><input type="radio" name="q3c" data-correct="false"> K₂Br₂</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

@@ -1,0 +1,101 @@
+---
+title: "Unit 3: Grammar & Mechanics"
+---
+
+```{=html}
+<script>document.body.classList.add('language-arts');</script>
+```
+
+## Key Concepts
+
+### Clauses
+
+- **Independent clause**: has a subject and verb, can stand alone as a sentence.
+- **Dependent (subordinate) clause**: has a subject and verb, but *cannot* stand alone (starts with words like *because, although, when, which*).
+
+Common errors come from mishandling these:
+
+- **Run-on sentence**: two independent clauses jammed together with no punctuation/connector.
+- **Comma splice**: two independent clauses joined with just a comma (needs a conjunction, semicolon, or period instead).
+- **Sentence fragment**: a dependent clause (or incomplete thought) punctuated as if it were a full sentence.
+
+### Punctuation rules that trip people up
+
+- **Semicolon**: joins two related independent clauses *without* a conjunction ("The exam was hard; everyone left exhausted.")
+- **Comma before a coordinating conjunction** (FANBOYS: for, and, nor, but, or, yet, so) when joining two independent clauses: "She studied all night, but the test was still tough."
+- **No comma** needed if the conjunction joins just a verb phrase, not a full second clause: "She studied all night and passed the test." (no comma — "passed the test" isn't a full independent clause with its own subject)
+- **Apostrophes**: show possession (*the dog's leash*) or contraction (*it's* = it is) — never just to make a word plural.
+
+### Common word mix-ups
+
+- **its** (possessive) vs. **it's** (it is)
+- **their** (possessive) vs. **there** (place) vs. **they're** (they are)
+- **your** (possessive) vs. **you're** (you are)
+- **affect** (usually a verb, to influence) vs. **effect** (usually a noun, a result)
+
+::: {.callout-tip}
+## Quick fragment test
+Read the clause alone. If it starts with a word like *because, although, since, when, while, which* and doesn't have another independent clause attached, it's a fragment — it's answering a question ("why?" "when?") that was never asked.
+:::
+
+## Practice Problems
+
+1. Identify the error and fix it: "I finished my homework, I went outside to play."
+
+::: {.callout-note collapse="true"}
+## Solution
+This is a **comma splice** (two independent clauses joined by only a comma). Fix options: "I finished my homework, so I went outside to play." or "I finished my homework; I went outside to play." or "I finished my homework. I went outside to play."
+:::
+
+2. Is this a complete sentence or a fragment? "Because the weather turned cold overnight."
+
+::: {.callout-note collapse="true"}
+## Solution
+**Fragment** — it's a dependent clause with no independent clause attached. It needs something like: "Because the weather turned cold overnight, we brought the plants inside."
+:::
+
+3. Choose the correct word: "___ going to need ___ umbrella because ___ raining outside." (they're/their/there, its/it's, its/it's)
+
+::: {.callout-note collapse="true"}
+## Solution
+"**They're** going to need **their** umbrella because **it's** raining outside."
+(They're = they are; their = possessive; it's = it is)
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. Two independent clauses joined by only a comma is a:</p>
+<label><input type="radio" name="l3a" data-correct="false"> Sentence fragment</label>
+<label><input type="radio" name="l3a" data-correct="true"> Comma splice</label>
+<label><input type="radio" name="l3a" data-correct="false"> Dependent clause</label>
+<label><input type="radio" name="l3a" data-correct="false"> Semicolon error</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. Which word is possessive?</p>
+<label><input type="radio" name="l3b" data-correct="false"> It's</label>
+<label><input type="radio" name="l3b" data-correct="true"> Its</label>
+<label><input type="radio" name="l3b" data-correct="false"> They're</label>
+<label><input type="radio" name="l3b" data-correct="false"> You're</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. A semicolon is best used to:</p>
+<label><input type="radio" name="l3c" data-correct="false"> Show possession</label>
+<label><input type="radio" name="l3c" data-correct="true"> Join two related independent clauses</label>
+<label><input type="radio" name="l3c" data-correct="false"> Introduce a quotation</label>
+<label><input type="radio" name="l3c" data-correct="false"> End a fragment</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

@@ -1,0 +1,104 @@
+---
+title: "Unit 1: Matter & Measurement"
+---
+
+```{=html}
+<script>document.body.classList.add('chemistry');</script>
+```
+
+## Key Concepts
+
+**Matter** is anything that has mass and takes up space. We classify it like this:
+
+- **Pure substances** — fixed composition
+  - *Elements*: can't be broken down further (e.g., oxygen, gold)
+  - *Compounds*: two or more elements chemically combined in a fixed ratio (e.g., H₂O)
+- **Mixtures** — variable composition, physically combined
+  - *Homogeneous* (uniform throughout, e.g., saltwater)
+  - *Heterogeneous* (visibly different parts, e.g., salad)
+
+**Physical vs. chemical changes**: a physical change alters appearance but not identity (melting ice); a chemical change produces a new substance (rusting iron).
+
+### Measurement basics
+
+- Chemists use **SI units**: mass (kg or g), volume (L or mL), temperature (K), length (m).
+- **Density** = mass ÷ volume, usually in g/mL or g/cm³. It's a way to identify a substance regardless of sample size.
+- **Significant figures** communicate precision:
+  - All non-zero digits count.
+  - Zeros between other digits count (102 has 3 sig figs).
+  - Leading zeros never count (0.0025 has 2 sig figs).
+  - Trailing zeros count only if there's a decimal point (100. has 3 sig figs; 100 has 1).
+
+::: {.callout-tip}
+## Quick trick
+When multiplying/dividing, your answer can only have as many sig figs as your *least precise* measurement. When adding/subtracting, match the fewest decimal places.
+:::
+
+## Practice Problems
+
+1. Classify each as an element, compound, homogeneous mixture, or heterogeneous mixture: (a) air, (b) table salt (NaCl), (c) trail mix, (d) copper wire.
+
+::: {.callout-note collapse="true"}
+## Solution
+(a) Air — homogeneous mixture (mostly N₂ and O₂ blended uniformly)
+(b) NaCl — compound (fixed ratio of Na and Cl)
+(c) Trail mix — heterogeneous mixture (you can see distinct pieces)
+(d) Copper wire — element
+:::
+
+2. A piece of metal has a mass of 47.5 g and a volume of 6.2 cm³. What is its density, with the correct number of sig figs?
+
+::: {.callout-note collapse="true"}
+## Solution
+Density = 47.5 g ÷ 6.2 cm³ = 7.66... g/cm³
+
+The least precise measurement (6.2) has 2 sig figs, so round to **7.7 g/cm³**.
+:::
+
+3. How many significant figures are in each: (a) 0.00420, (b) 3,050, (c) 3,050., (d) 12.300?
+
+::: {.callout-note collapse="true"}
+## Solution
+(a) 3 sig figs — leading zeros don't count, trailing zero after the 2 does
+(b) 3 sig figs — trailing zero with no decimal doesn't count
+(c) 4 sig figs — the decimal point makes the trailing zero count
+(d) 5 sig figs — all digits count once a decimal point is present
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. Which of these is a chemical change?</p>
+<label><input type="radio" name="q1a" data-correct="false"> Ice melting into water</label>
+<label><input type="radio" name="q1a" data-correct="true"> Iron rusting</label>
+<label><input type="radio" name="q1a" data-correct="false"> Dissolving sugar in tea</label>
+<label><input type="radio" name="q1a" data-correct="false"> Shredding paper</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. Saltwater is an example of a:</p>
+<label><input type="radio" name="q1b" data-correct="false"> Compound</label>
+<label><input type="radio" name="q1b" data-correct="true"> Homogeneous mixture</label>
+<label><input type="radio" name="q1b" data-correct="false"> Heterogeneous mixture</label>
+<label><input type="radio" name="q1b" data-correct="false"> Element</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. The number 0.00420 has how many significant figures?</p>
+<label><input type="radio" name="q1c" data-correct="false"> 2</label>
+<label><input type="radio" name="q1c" data-correct="true"> 3</label>
+<label><input type="radio" name="q1c" data-correct="false"> 5</label>
+<label><input type="radio" name="q1c" data-correct="false"> 6</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

@@ -1,0 +1,20 @@
+---
+title: "Geometry"
+subtitle: "From building blocks to formal proofs"
+---
+
+```{=html}
+<script>document.body.classList.add('geometry');</script>
+```
+
+Advanced geometry builds on algebra by introducing formal logical reasoning — you're not just solving for x anymore, you're *proving* why something must be true. These units move from vocabulary and postulates to triangle relationships and proof-writing.
+
+### Units
+
+1. [Foundations & Proof Basics](foundations.qmd) — points/lines/planes, angle pairs, intro to two-column proofs
+2. [Parallel Lines & Triangles](parallel-lines-triangles.qmd) — parallel line angle relationships, triangle angle theorems
+3. [Congruence & Similarity](congruence-similarity.qmd) — congruence shortcuts (SSS, SAS...), similarity, right triangle basics
+
+::: {.callout-note}
+Later units (quadrilaterals, circles, area/volume, trigonometry) can follow this same page structure.
+:::

@@ -1,0 +1,21 @@
+---
+title: "Welcome!"
+---
+
+Hi! This site is our home base for getting ready for high school. Each subject has its own section in the menu above, broken into units. Every unit page has three parts:
+
+1. **Notes** — the core ideas explained simply, with examples.
+2. **Practice Problems** — try them yourself, then click to reveal the worked solution.
+3. **Quick Check** — a short interactive quiz to test what stuck.
+
+### Subjects
+
+- [Chemistry](chemistry/index.qmd) — matter, atoms, the periodic table, and bonding
+- [AP Human Geography](ap-human-geo/index.qmd) — how people, culture, and politics shape the world
+- [Geometry](geometry/index.qmd) — proofs, triangles, and similarity
+- [Language Arts](language-arts/index.qmd) — close reading, rhetoric, and grammar
+
+::: {.callout-tip}
+## How to use this site
+Read the notes first, then always attempt the practice problems **before** peeking at the solution — that's how the ideas actually stick. Use the quiz at the end of each page as a gut-check, not a first attempt.
+:::

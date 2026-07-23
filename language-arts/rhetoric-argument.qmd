@@ -1,0 +1,99 @@
+---
+title: "Unit 2: Rhetoric & Argumentative Writing"
+---
+
+```{=html}
+<script>document.body.classList.add('language-arts');</script>
+```
+
+## Key Concepts
+
+### The rhetorical appeals
+
+- **Ethos**: appeals to credibility/character ("As a doctor with 20 years of experience...")
+- **Pathos**: appeals to emotion (vivid stories, emotionally charged language)
+- **Logos**: appeals to logic (statistics, reasoning, cause-and-effect)
+
+Strong arguments usually blend all three rather than relying on just one.
+
+### Rhetorical situation
+
+Before analyzing or writing an argument, identify:
+
+- **Author** — who is speaking, and what's their credibility/bias?
+- **Audience** — who is this trying to persuade, and what do they already believe?
+- **Purpose** — what does the author want the audience to think or do?
+- **Context** — what's happening around this text that shapes it?
+
+### Building an argumentative essay
+
+1. **Thesis**: a clear, arguable claim (not a fact, not a question) — should be specific enough that someone could reasonably disagree.
+2. **Body paragraphs**: each should have one main point (topic sentence), evidence, and analysis that ties back to the thesis.
+3. **Counterargument**: acknowledge the strongest opposing view, then rebut it — this makes your argument look stronger, not weaker.
+4. **Conclusion**: don't just restate the thesis — address the "so what?" (why does this argument matter?).
+
+::: {.callout-tip}
+## Testing a thesis
+Ask: "could a reasonable person disagree with this?" If not, it's a fact, not an arguable thesis. "Recycling reduces landfill waste" is a fact. "Mandatory recycling programs are more effective than voluntary ones" is arguable.
+:::
+
+## Practice Problems
+
+1. Identify the appeal: "Over 10,000 peer-reviewed studies confirm this treatment's effectiveness."
+
+::: {.callout-note collapse="true"}
+## Solution
+**Logos** — it uses statistics/data as logical evidence.
+:::
+
+2. Rewrite this weak thesis into an arguable one: "Social media has both good and bad effects on teenagers."
+
+::: {.callout-note collapse="true"}
+## Solution
+Sample fix: "While social media offers useful ways for teenagers to connect, its design features (infinite scroll, algorithmic feeds) create outsized harm to teen mental health that outweighs its benefits." (Key fix: pick a side and make a specific, debatable claim instead of listing both sides neutrally.)
+:::
+
+3. Why should you include a counterargument in your own essay instead of only presenting your own side?
+
+::: {.callout-note collapse="true"}
+## Solution
+Addressing the strongest opposing view — and then rebutting it — shows you've considered the issue fully, which makes your own argument more credible and harder to dismiss. Ignoring counterarguments can make your essay look one-sided or unaware of obvious objections.
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. An appeal based on the speaker's credibility is:</p>
+<label><input type="radio" name="l2a" data-correct="true"> Ethos</label>
+<label><input type="radio" name="l2a" data-correct="false"> Pathos</label>
+<label><input type="radio" name="l2a" data-correct="false"> Logos</label>
+<label><input type="radio" name="l2a" data-correct="false"> Syntax</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. A good thesis statement should be:</p>
+<label><input type="radio" name="l2b" data-correct="false"> A simple fact</label>
+<label><input type="radio" name="l2b" data-correct="false"> A question</label>
+<label><input type="radio" name="l2b" data-correct="true"> Specific and arguable</label>
+<label><input type="radio" name="l2b" data-correct="false"> As broad as possible</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. Addressing the strongest opposing view in your essay is called the:</p>
+<label><input type="radio" name="l2c" data-correct="false"> Thesis</label>
+<label><input type="radio" name="l2c" data-correct="false"> Topic sentence</label>
+<label><input type="radio" name="l2c" data-correct="true"> Counterargument</label>
+<label><input type="radio" name="l2c" data-correct="false"> Ethos</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

@@ -1,0 +1,105 @@
+---
+title: "Unit 2: Population & Migration"
+---
+
+```{=html}
+<script>document.body.classList.add('ap-human-geo');</script>
+```
+
+## Key Concepts
+
+### Population distribution & density
+
+- **Arithmetic density**: total population ÷ total land area — simple but can be misleading.
+- **Physiologic density**: population ÷ *arable* (farmable) land — better reflects pressure on food-producing land.
+- **Agricultural density**: number of farmers ÷ arable land — reflects efficiency of farming.
+
+### The Demographic Transition Model (DTM)
+
+A model of how birth rates and death rates change as a country develops, in 5 stages:
+
+1. **Stage 1** (pre-industrial): high birth rate, high death rate → slow growth
+2. **Stage 2** (early industrial): death rate drops fast (better medicine/food), birth rate stays high → **rapid growth**
+3. **Stage 3** (industrializing): birth rate starts falling (urbanization, education, women in workforce) → growth slows
+4. **Stage 4** (developed): low birth rate, low death rate → slow/stable growth
+5. **Stage 5** (some developed nations): birth rate falls *below* death rate → population decline
+
+Related: the **Epidemiologic Transition Model** tracks *causes of death* shifting from infectious disease (Stage 1-2) to chronic/degenerative disease (Stage 4-5).
+
+### Migration
+
+- **Push factors**: reasons people leave a place (war, famine, lack of jobs)
+- **Pull factors**: reasons people are drawn to a place (jobs, safety, family)
+- **Types**: forced vs. voluntary; internal (within a country) vs. international
+- **Ravenstein's Laws of Migration** (key ideas): most migrants move only a short distance; long-distance migrants tend to move toward large cities; migration increases as industrialization/transportation improves.
+
+::: {.callout-tip}
+## Common mix-up
+Physiologic density and arithmetic density use the same numerator (population) but different denominators. A country can look "empty" by arithmetic density (lots of desert/land) yet be very crowded by physiologic density (little arable land) — Egypt is the classic example.
+:::
+
+## Practice Problems
+
+1. A country has 40 million people, 1 million km² of total land, and 200,000 km² of arable land. Find its arithmetic and physiologic densities.
+
+::: {.callout-note collapse="true"}
+## Solution
+Arithmetic density = 40,000,000 ÷ 1,000,000 = **40 people/km²**
+Physiologic density = 40,000,000 ÷ 200,000 = **200 people/km²**
+
+The physiologic density is much higher, showing real pressure on the usable farmland even though the arithmetic density looks moderate.
+:::
+
+2. A country has a high birth rate and a rapidly falling death rate, driven by new medical technology, but women are not yet entering the workforce in large numbers. What DTM stage is this, and what happens to population?
+
+::: {.callout-note collapse="true"}
+## Solution
+**Stage 2.** With births staying high but deaths falling, the natural increase rate spikes — this is the period of the fastest population growth.
+:::
+
+3. Give one push factor and one pull factor for a family relocating from a rural area to a big city for work.
+
+::: {.callout-note collapse="true"}
+## Solution
+**Push factor**: lack of jobs/limited economic opportunity in the rural area.
+**Pull factor**: availability of jobs and higher wages in the city.
+(Any reasonable equivalent, e.g. push = poor schools, pull = better schools, is also correct.)
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. Which DTM stage has the fastest population growth?</p>
+<label><input type="radio" name="g2a" data-correct="false"> Stage 1</label>
+<label><input type="radio" name="g2a" data-correct="true"> Stage 2</label>
+<label><input type="radio" name="g2a" data-correct="false"> Stage 4</label>
+<label><input type="radio" name="g2a" data-correct="false"> Stage 5</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. Physiologic density divides population by:</p>
+<label><input type="radio" name="g2b" data-correct="false"> Total land area</label>
+<label><input type="radio" name="g2b" data-correct="true"> Arable land area</label>
+<label><input type="radio" name="g2b" data-correct="false"> Number of farmers</label>
+<label><input type="radio" name="g2b" data-correct="false"> Urban land area</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. War forcing people to flee their country is an example of:</p>
+<label><input type="radio" name="g2c" data-correct="false"> A pull factor</label>
+<label><input type="radio" name="g2c" data-correct="true"> A push factor</label>
+<label><input type="radio" name="g2c" data-correct="false"> Internal migration</label>
+<label><input type="radio" name="g2c" data-correct="false"> Stage 5 of the DTM</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

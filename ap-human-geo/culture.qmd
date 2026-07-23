@@ -1,0 +1,97 @@
+---
+title: "Unit 3: Culture"
+---
+
+```{=html}
+<script>document.body.classList.add('ap-human-geo');</script>
+```
+
+## Key Concepts
+
+### Culture and cultural landscape
+
+**Culture** is a group's shared beliefs, practices, technology, and values, passed down and modified over time. The **cultural landscape** is the visible imprint of culture on the land (buildings, farms, road layouts, signage).
+
+- **Cultural traits**: individual elements of culture (a specific food, style of dress, custom)
+- **Cultural complex**: a related set of traits (traits around a specific religion, for example)
+- **Cultural region**: an area sharing common cultural traits/complexes
+
+### Diffusion — how culture spreads
+
+- **Relocation diffusion**: culture spreads because people physically move (immigrants bringing food traditions).
+- **Expansion diffusion**: culture spreads outward from its origin while staying strong there, split into:
+  - *Contagious diffusion*: spreads quickly through direct contact, most people affected (a viral trend)
+  - *Hierarchical diffusion*: spreads through a ranked order — big cities first, then smaller towns (new fashion trends, tech adoption)
+  - *Stimulus diffusion*: the underlying idea spreads even though the specific practice changes (fast food concept adapted with local menus abroad)
+
+### Language and religion patterns
+
+- **Language families** (e.g., Indo-European) share a common ancestral root; a **lingua franca** is a common language used for trade/communication between groups who don't share a native language (English, historically).
+- **Universalizing religions** (Christianity, Islam, Buddhism) actively seek converts and can spread anywhere.
+- **Ethnic religions** (Hinduism, Judaism) are closely tied to a specific ethnic group or place and spread mainly by relocation diffusion, not conversion.
+
+::: {.callout-tip}
+## Telling diffusion types apart
+Ask: did it spread because people *moved* (relocation) or because it spread outward while staying put at the source (expansion)? If expansion, ask if it moved through *everyone nearby* (contagious), *big places to small* (hierarchical), or if only the *idea* survived the trip while the details changed (stimulus).
+:::
+
+## Practice Problems
+
+1. A new slang term appears first in a major city and later shows up in smaller towns nearby, following the ranking of city size. What type of diffusion is this?
+
+::: {.callout-note collapse="true"}
+## Solution
+**Hierarchical diffusion** — it spread from larger places down to smaller ones in order of size/importance.
+:::
+
+2. Classify: Buddhism spreading from Asia to the West as immigrants moved and brought their practice with them.
+
+::: {.callout-note collapse="true"}
+## Solution
+**Relocation diffusion** — the religion spread because its practitioners physically relocated.
+:::
+
+3. A burger chain from the US opens overseas but swaps the menu for local flavors and ingredients. What type of diffusion best describes this, and why?
+
+::: {.callout-note collapse="true"}
+## Solution
+**Stimulus diffusion** — the general concept (fast, casual chain food) spread, but the specific product was modified to fit the new cultural context.
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. A religion tied closely to one ethnic group that spreads mainly through relocation is:</p>
+<label><input type="radio" name="g3a" data-correct="true"> An ethnic religion</label>
+<label><input type="radio" name="g3a" data-correct="false"> A universalizing religion</label>
+<label><input type="radio" name="g3a" data-correct="false"> A lingua franca</label>
+<label><input type="radio" name="g3a" data-correct="false"> A cultural complex</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. Trends spreading from big cities to smaller towns in ranked order is:</p>
+<label><input type="radio" name="g3b" data-correct="false"> Contagious diffusion</label>
+<label><input type="radio" name="g3b" data-correct="false"> Relocation diffusion</label>
+<label><input type="radio" name="g3b" data-correct="true"> Hierarchical diffusion</label>
+<label><input type="radio" name="g3b" data-correct="false"> Stimulus diffusion</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. The visible imprint of culture on the land is called the:</p>
+<label><input type="radio" name="g3c" data-correct="false"> Cultural trait</label>
+<label><input type="radio" name="g3c" data-correct="false"> Cultural hearth</label>
+<label><input type="radio" name="g3c" data-correct="true"> Cultural landscape</label>
+<label><input type="radio" name="g3c" data-correct="false"> Cultural complex</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

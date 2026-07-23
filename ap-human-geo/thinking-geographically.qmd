@@ -1,0 +1,100 @@
+---
+title: "Unit 1: Thinking Geographically"
+---
+
+```{=html}
+<script>document.body.classList.add('ap-human-geo');</script>
+```
+
+## Key Concepts
+
+### Maps and spatial concepts
+
+- **Absolute location**: an exact position (coordinates, address).
+- **Relative location**: where something is in relation to other things ("east of the river").
+- **Spatial distribution**: how something is arranged across an area — described by:
+  - *Density* (how much/many per unit area)
+  - *Concentration* (clustered vs. dispersed)
+  - *Pattern* (geometric, random, linear...)
+
+### Scale
+
+In geography, **scale** means the level of analysis — local, regional, national, or global. The "scale of analysis" matters: a trend that appears at the national level (e.g., "the US is aging") can look totally different city by city. This is related to the **modifiable areal unit problem** — how you draw boundaries on a map can change what pattern you appear to see.
+
+### Region types
+
+- **Formal region**: shares an official/measurable trait (a country, a climate zone)
+- **Functional region**: organized around a hub/node (a pizza delivery zone, a metro transit system)
+- **Perceptual (vernacular) region**: defined by people's mental image, not hard data ("the South," "the Midwest")
+
+### Human-environment interaction
+
+Geographers study how humans adapt to, modify, and depend on their environment (e.g., building levees, irrigation, urban heat islands).
+
+::: {.callout-tip}
+## Exam-writing tip
+When APHG asks you to "explain" a spatial pattern, always connect it to a *process* — don't just describe the map, say *why* it looks that way (migration, trade routes, physical geography, policy, etc.).
+:::
+
+## Practice Problems
+
+1. Classify each region type: (a) the Sun Belt, (b) the state of Ohio, (c) the coverage area of a local pizza delivery chain.
+
+::: {.callout-note collapse="true"}
+## Solution
+(a) Sun Belt — **perceptual/vernacular** region (no official boundary, based on shared perception)
+(b) Ohio — **formal** region (official political boundary)
+(c) Pizza delivery zone — **functional** region (organized around a central node, the store)
+:::
+
+2. A news report says "crime is rising in the Midwest." Explain one problem with analyzing this claim only at that scale.
+
+::: {.callout-note collapse="true"}
+## Solution
+The Midwest is a huge, varied area — a regional-scale rise could be driven by one or two cities while most places see no change, or the pattern could reverse itself at the city or neighborhood scale. Zooming to a finer scale of analysis is necessary before drawing conclusions about causes.
+:::
+
+3. Is "distance from the coast" an example of absolute or relative location? Explain.
+
+::: {.callout-note collapse="true"}
+## Solution
+**Relative location** — it describes position in relation to another feature (the coast), not a fixed coordinate.
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. A region defined by shared perception rather than official data is a:</p>
+<label><input type="radio" name="g1a" data-correct="false"> Formal region</label>
+<label><input type="radio" name="g1a" data-correct="false"> Functional region</label>
+<label><input type="radio" name="g1a" data-correct="true"> Perceptual region</label>
+<label><input type="radio" name="g1a" data-correct="false"> Absolute region</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. "12 miles north of downtown" describes:</p>
+<label><input type="radio" name="g1b" data-correct="false"> Absolute location</label>
+<label><input type="radio" name="g1b" data-correct="true"> Relative location</label>
+<label><input type="radio" name="g1b" data-correct="false"> A functional region</label>
+<label><input type="radio" name="g1b" data-correct="false"> A formal region</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. A transit system's service area is best described as a:</p>
+<label><input type="radio" name="g1c" data-correct="false"> Formal region</label>
+<label><input type="radio" name="g1c" data-correct="true"> Functional region</label>
+<label><input type="radio" name="g1c" data-correct="false"> Perceptual region</label>
+<label><input type="radio" name="g1c" data-correct="false"> None of these</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

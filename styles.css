@@ -1,0 +1,92 @@
+/* ---- General look ---- */
+:root {
+  --chem-color: #2a9d8f;
+  --geo-color: #e76f51;
+  --math-color: #6a4c93;
+  --ela-color: #d4a017;
+}
+
+.navbar-title {
+  font-weight: 700;
+}
+
+h1.title {
+  border-bottom: 3px solid #2a6f97;
+  padding-bottom: 0.3rem;
+}
+
+/* subject accent bar, set via body class in each qmd's front matter */
+body.chemistry h1.title { border-color: var(--chem-color); }
+body.ap-human-geo h1.title { border-color: var(--geo-color); }
+body.geometry h1.title { border-color: var(--math-color); }
+body.language-arts h1.title { border-color: var(--ela-color); }
+
+/* ---- Practice problem callouts ---- */
+div.callout-note.callout-style-default {
+  border-left-width: 6px;
+}
+
+/* ---- Quiz widget ---- */
+.quiz {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+
+.quiz-question {
+  margin-bottom: 1.25rem;
+}
+
+.quiz-question:last-child {
+  margin-bottom: 0;
+}
+
+.quiz-question p.quiz-prompt {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.quiz-question label {
+  display: block;
+  padding: 0.25rem 0;
+  cursor: pointer;
+}
+
+.quiz-question button.quiz-check {
+  margin-top: 0.5rem;
+  background: #2a6f97;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 0.4rem 0.9rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.quiz-question button.quiz-check:hover {
+  background: #1e5177;
+}
+
+.quiz-feedback {
+  margin-top: 0.5rem;
+  font-weight: 600;
+  display: none;
+}
+
+.quiz-feedback.correct {
+  color: #2a9d8f;
+}
+
+.quiz-feedback.incorrect {
+  color: #e76f51;
+}
+
+label.option-correct {
+  color: #2a9d8f;
+}
+
+label.option-incorrect {
+  color: #e76f51;
+}

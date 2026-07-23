@@ -1,0 +1,106 @@
+---
+title: "Unit 1: Foundations & Proof Basics"
+---
+
+```{=html}
+<script>document.body.classList.add('geometry');</script>
+```
+
+## Key Concepts
+
+### Undefined terms & basics
+
+- **Point**: a location, no size (labeled with a capital letter)
+- **Line**: extends infinitely in both directions, no thickness
+- **Plane**: a flat surface extending infinitely in all directions
+
+From these, we define **segments** (part of a line with two endpoints) and **rays** (starts at a point, extends infinitely one direction).
+
+### Angle pairs (memorize these — they show up everywhere)
+
+- **Complementary angles**: sum to 90°
+- **Supplementary angles**: sum to 180°
+- **Vertical angles**: opposite angles formed by two intersecting lines — always **congruent**
+- **Linear pair**: two adjacent angles that form a straight line — always **supplementary**
+
+### Postulates vs. theorems
+
+A **postulate** (or axiom) is accepted as true without proof (e.g., "through any two points there is exactly one line"). A **theorem** is a statement *proven* using postulates, definitions, and previously proven theorems.
+
+### Two-column proofs
+
+A proof is a logical argument that gets from **given information** to a **conclusion**, one justified step at a time.
+
+| Statement | Reason |
+|---|---|
+| ∠1 and ∠2 form a linear pair | Given |
+| ∠1 + ∠2 = 180° | Definition of linear pair |
+| ∠1 = 70° | Given |
+| ∠2 = 110° | Substitution / Subtraction property |
+
+::: {.callout-tip}
+## How to start any proof
+Write down exactly what's "Given" as your first line, and what you need to prove as your last line. Then work backward from the conclusion, asking "what would let me claim this?" — that usually reveals the missing middle steps.
+:::
+
+## Practice Problems
+
+1. Two angles are supplementary. One measures 112°. Find the other.
+
+::: {.callout-note collapse="true"}
+## Solution
+180° − 112° = **68°**
+:::
+
+2. Two lines intersect, forming four angles. One angle measures 55°. Find the measures of the other three.
+
+::: {.callout-note collapse="true"}
+## Solution
+The angle vertical to the 55° angle is also **55°** (vertical angles are congruent).
+The two angles adjacent to it form linear pairs with it: 180° − 55° = **125°** each.
+:::
+
+3. Fill in the missing reason: Given ∠A ≅ ∠B and ∠B ≅ ∠C, prove ∠A ≅ ∠C. The reason is ______.
+
+::: {.callout-note collapse="true"}
+## Solution
+**Transitive property of congruence** — if two things are each congruent to a third thing, they're congruent to each other.
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. Two angles that sum to 90° are called:</p>
+<label><input type="radio" name="m1a" data-correct="false"> Supplementary</label>
+<label><input type="radio" name="m1a" data-correct="true"> Complementary</label>
+<label><input type="radio" name="m1a" data-correct="false"> Vertical</label>
+<label><input type="radio" name="m1a" data-correct="false"> Congruent</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. Vertical angles are always:</p>
+<label><input type="radio" name="m1b" data-correct="false"> Supplementary</label>
+<label><input type="radio" name="m1b" data-correct="false"> Complementary</label>
+<label><input type="radio" name="m1b" data-correct="true"> Congruent</label>
+<label><input type="radio" name="m1b" data-correct="false"> Right angles</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. A statement accepted as true without proof is a:</p>
+<label><input type="radio" name="m1c" data-correct="false"> Theorem</label>
+<label><input type="radio" name="m1c" data-correct="true"> Postulate</label>
+<label><input type="radio" name="m1c" data-correct="false"> Corollary</label>
+<label><input type="radio" name="m1c" data-correct="false"> Conjecture</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```

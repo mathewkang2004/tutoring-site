@@ -1,0 +1,102 @@
+---
+title: "Unit 2: Atomic Structure & the Periodic Table"
+---
+
+```{=html}
+<script>document.body.classList.add('chemistry');</script>
+```
+
+## Key Concepts
+
+### The atom
+
+An atom has three particles:
+
+| Particle | Charge | Location | Mass |
+|---|---|---|---|
+| Proton | +1 | Nucleus | ~1 amu |
+| Neutron | 0 | Nucleus | ~1 amu |
+| Electron | -1 | Electron cloud | ~0 (negligible) |
+
+- **Atomic number (Z)** = number of protons — this defines the element.
+- **Mass number (A)** = protons + neutrons.
+- **Isotopes** are atoms of the same element with different numbers of neutrons (same Z, different A). Written as, e.g., carbon-14.
+- In a neutral atom, **electrons = protons**. Ions form when atoms gain or lose electrons.
+
+### The periodic table
+
+Elements are arranged by increasing atomic number into rows (**periods**) and columns (**groups/families**). Elements in the same group share similar chemical behavior because they have the same number of **valence electrons** (outermost shell).
+
+Key periodic trends, and *why* they happen:
+
+- **Atomic radius** decreases left→right (more protons pull electrons in tighter), increases top→bottom (more electron shells).
+- **Ionization energy** (energy to remove an electron) increases left→right, decreases top→bottom — it's the opposite pattern from radius, because atoms held tightly are harder to strip an electron from.
+- **Electronegativity** (how strongly an atom pulls on shared electrons) follows the same trend as ionization energy, peaking at fluorine.
+
+::: {.callout-tip}
+## Memory anchor
+Think of it as a "diagonal pull toward the top-right corner": radius shrinks and pulling power grows as you move toward fluorine/helium, because the nucleus has more protons but electrons stay in a shell close to it.
+:::
+
+## Practice Problems
+
+1. An atom has 17 protons, 18 neutrons, and 17 electrons. Identify the element, write the mass number, and state whether it's a neutral atom or an ion.
+
+::: {.callout-note collapse="true"}
+## Solution
+17 protons → atomic number 17 → **chlorine (Cl)**.
+Mass number = 17 protons + 18 neutrons = **35**.
+Protons (17) = electrons (17) → **neutral atom** (this is Cl-35).
+:::
+
+2. Without looking at a periodic table, predict which has the larger atomic radius: sodium (Na) or chlorine (Cl). Explain why.
+
+::: {.callout-note collapse="true"}
+## Solution
+**Sodium is larger.** Both are in period 3, but chlorine has more protons pulling its electron cloud inward, while sodium's weaker nuclear pull lets its outer electron sit farther out.
+:::
+
+3. Rank these by increasing ionization energy: potassium (K), lithium (Li), fluorine (F).
+
+::: {.callout-note collapse="true"}
+## Solution
+**K < Li < F**. Ionization energy decreases down a group (K is below Li) and increases across a period toward the right (F is far right, hardest to strip an electron from).
+:::
+
+## Quick Check
+
+```{=html}
+<div class="quiz">
+
+<div class="quiz-question">
+<p class="quiz-prompt">1. What determines which element an atom is?</p>
+<label><input type="radio" name="q2a" data-correct="false"> Number of neutrons</label>
+<label><input type="radio" name="q2a" data-correct="false"> Number of electrons</label>
+<label><input type="radio" name="q2a" data-correct="true"> Number of protons</label>
+<label><input type="radio" name="q2a" data-correct="false"> Mass number</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">2. Two atoms of the same element with different numbers of neutrons are called:</p>
+<label><input type="radio" name="q2b" data-correct="false"> Ions</label>
+<label><input type="radio" name="q2b" data-correct="true"> Isotopes</label>
+<label><input type="radio" name="q2b" data-correct="false"> Isomers</label>
+<label><input type="radio" name="q2b" data-correct="false"> Allotropes</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+<div class="quiz-question">
+<p class="quiz-prompt">3. Moving left to right across a period, atomic radius:</p>
+<label><input type="radio" name="q2c" data-correct="false"> Increases</label>
+<label><input type="radio" name="q2c" data-correct="true"> Decreases</label>
+<label><input type="radio" name="q2c" data-correct="false"> Stays the same</label>
+<label><input type="radio" name="q2c" data-correct="false"> Increases then decreases</label>
+<button class="quiz-check">Check Answer</button>
+<div class="quiz-feedback"></div>
+</div>
+
+</div>
+```
